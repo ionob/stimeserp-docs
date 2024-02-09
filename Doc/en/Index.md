@@ -52,7 +52,7 @@ Enterprise Resource Planning (ERP) is a suite of integrated business application
 ## Challenges
 
 1. **Cost:**
-   - `ERP implementations can be expensive, involving licensing fees, customization costs, and ongoing maintenance.`
+   - ERP implementations can be expensive, involving licensing fees, customization costs, and ongoing maintenance.`
 
 2. **Resistance to Change:**
    - Employees may resist changes to established workflows, requiring effective change management strategies.
