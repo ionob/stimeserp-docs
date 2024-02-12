@@ -1,17 +1,29 @@
 {
-  "items":[
-    {
+  "items": [
+    { 
       "text": "Introducation",
       "path": "introduction/introduction.md",
-      "items":[
+      "items": [
         {
           "text": "Open Source",
-        "path": "introduction/Open-Source/open-source.md"
+          "path": "introduction/Open-Source/open-source.md",
+          "item": [
+            {
+              "text": "test",
+              "path": "introduction/Open-Source/test/test.md"
+            }
+          ]
+        },
+        {
+          "text": "What is ERP",
+          "path":"introduction/what-is-erp/what-is-erp.md"
         }
       ]
+    },
+    {
+      "text": "Development",
+      "path": "development/development.md"
     }
-
     
   ]
-  
 }
