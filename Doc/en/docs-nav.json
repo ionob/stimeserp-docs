@@ -7,7 +7,7 @@
         {
           "text": "Open Source",
           "path": "introduction/Open-Source/open-source.md",
-          "item": [
+          "items": [
             {
               "text": "test",
               "path": "introduction/Open-Source/test/test.md"
