@@ -1,28 +1,42 @@
 {
   "items": [
+    {
+      "text": "Getting Started",
+      "path": "getting-started.md"
+    },
     { 
-      "text": "Introducation",
-      "path": "introduction/introduction.md",
+      "text": "Administration",
+      "path": "administration/administration.md",
       "items": [
         {
-          "text": "Open Source",
-          "path": "introduction/Open-Source/open-source.md",
+          "text": "Basic",
           "items": [
             {
-              "text": "test",
-              "path": "introduction/Open-Source/test/test.md"
+              "text": "Company",
+              "path": "administration/basic/company.md"
             }
           ]
         },
         {
-          "text": "What is ERP",
-          "path":"introduction/what-is-erp/what-is-erp.md"
+          "text": "Activity",
+          "items": [
+            {
+              "text": "User",
+              "path": "administration/activity/user.md"
+            }
+          ]
+        },
+        {
+          "text": "Report",
+          "items": [
+            {
+              "text": "Activity Report" ,
+              "path": "administration/report/activity-report.md"
+            }
+          ]
         }
+        
       ]
-    },
-    {
-      "text": "Development",
-      "path": "development/development.md"
     }
     
   ]
