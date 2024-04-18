@@ -4,68 +4,73 @@
       "text": "Getting Started",
       "path": "getting-started.md"
     },
-    { 
-      "text": "administration",
-      "path": "administrationi.md"
-  },
+    {
+      "text": "Administration",
+      "path": "administrationi.md",
+      "children": [
         {
-          "text": "basic-setup",
-          "path": "administration/basic-setup.md"
+          "text": "Basic Setup",
+          "path": "administration/basic-setup.md",
+          "children": [
+            {
+              "text": "Company",
+              "path": "administration/basic-setup/company.md"
+            },
+            {
+              "text": "Bank",
+              "path": "administration/basic-setup/bank.md"
+            },
+            {
+              "text": "Financial Period",
+              "path": "administration/basic-setup/financial-period.md"
+            },
+            {
+              "text": "Sponsorship Company",
+              "path": "administration/basic-setup/sponsorship-company.md"
+            },
+            {
+              "text": "Document Sequence",
+              "path": "administration/basic-setup/document-sequence.md"
+            },
+            {
+              "text": "User Permission",
+              "path": "administration/basic-setup/user-permission.md"
+            }
+          ]
         },
-      
-          {
-            "text": "company",
-            "path": "administration/basic-setup/company.md"
-          },
-          
-      {
-        "text": "bank",
-        "path":"administration/basic-setup/bank.md"
-      
-      },
-      {
-        "text":"financial-period",
-        "path":"administration/basic-setup/financial-period.md"
-      },
-      {
-        "text":"sponsorship-company",
-        "path":"administration/basic-setup/sponsorship-company.md"
-      },
-      {
-        "text":"document-sequence",
-        "path":"administration/basic-setup/document-sequence.md"
-      },
-      {
-        "text":"user-permission",
-        "path":"administration/basic-setup/user-permission.md"
-      },
-      {
-        "text":"activity",
-        "path":"administration/activity.md"
-      },
-      {
-        "text":"user",
-        "path":"administration/activity/user.md"
-      },
-      {
-        "text":"finalized-quotation",
-        "path":"administration/activity/finalized-quotation.md"
-
-      },
-      {
-        "text":"workflow",
-        "path":"administration/activity/workflow.md"
-      },
-      {
-        "text":"report",
-        "path":"administration/report.md"
-      },
-      {
-        "text":"activity-report",
-        "path":"administration/report/activity-report"
-      },
-      {
-        "text":"settings",
-        "path":"administration/settings.md"
-      }]
+        {
+          "text": "Activity",
+          "path": "administration/activity.md",
+          "children": [
+            {
+              "text": "User",
+              "path": "administration/activity/user.md"
+            },
+            {
+              "text": "Finalized Quotation",
+              "path": "administration/activity/finalized-quotation.md"
+            },
+            {
+              "text": "Workflow",
+              "path": "administration/activity/workflow.md"
+            }
+          ]
+        },
+        {
+          "text": "Report",
+          "path": "administration/report.md",
+          "children": [
+            {
+              "text": "Activity Report",
+              "path": "administration/report/activity-report.md"
+            }
+          ]
+        },
+        {
+          "text": "Settings",
+          "path": "administration/settings.md"
+        }
+      ]
+    }
+  ]
 }
