@@ -6,17 +6,16 @@
     },
     {
       "text": "administration",
-      "path": "administrationi.md",
+      "path": "administration.md",
       "items": [
         {
           "text": "basic-setup",
-          "path": "administration/basic-setup.md",
+          "path": "administration/basic-setup",
           "items": [
             {
               "text": "company",
               "path": "administration/basic-setup/company.md"
             },
-
             {
               "text": "bank",
               "path": "administration/basic-setup/bank.md"
@@ -44,8 +43,8 @@
 
     {
       "text": "activity",
-      "path": "administration/activity.md"
-    },
+      "path": "administration/activity.md",
+      "items":[ 
     {
       "text": "user",
       "path": "administration/activity/user.md"
