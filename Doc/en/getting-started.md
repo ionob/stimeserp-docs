@@ -14,7 +14,7 @@ Guidance is provided for secure login to protect data from cyber threats.
 
 >	Easily navigate modules with customizable widgets for real-time analytics, aiding decision-making. Access a user-friendly dashboard for comprehensive  workforce oversight in the ERP system
 ## PROFILE
-                Images /Picture 5.png
+                Images /Picture 5.png 
 
 >	At the top right corner, click on the mail address or profile icon to access the complete profile details, including user code, user name, and password change functionalities for editing and confirmation
 
@@ -78,12 +78,13 @@ Images /Picture 19.png
 ## ACTIVITY LOG
 >The activity log in  software is a record of actions or events that occur within the system. It keeps track of user activities, by which user entered on which module at what time 
 
-## DEMAND AND SUPPLY :
+## DEMAND AND SUPPLY 
 >This graph tracks supply and demand of employees with respected Sales person’s name and status . 
-## IDLE EMPLOYEE :
+## IDLE EMPLOYEE 
 >The Idle Employee graph shows number of idle employees  currently staying in the camp
 In graph you can view data of number of Idle employees by number of days 
 
 ## ACCOMODATION: 
 >The accommodation involves the Camp details in which Total bed space out of which how much occupied and vacant space and count of absent ,and you can view the total absent count
-        Images /Picture 21.png
+   
+         Images /Picture 21.png
