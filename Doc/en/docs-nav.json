@@ -5,72 +5,70 @@
       "path": "getting-started.md"
     },
     {
-      "text": "Administration",
+      "text": "administration",
       "path": "administrationi.md",
-      "children": [
+      "items": [
         {
-          "text": "Basic Setup",
+          "text": "basic-setup",
           "path": "administration/basic-setup.md",
-          "children": [
+          "items": [
             {
-              "text": "Company",
+              "text": "company",
               "path": "administration/basic-setup/company.md"
             },
+
             {
-              "text": "Bank",
+              "text": "bank",
               "path": "administration/basic-setup/bank.md"
             },
             {
-              "text": "Financial Period",
+              "text": "financial-period",
               "path": "administration/basic-setup/financial-period.md"
             },
             {
-              "text": "Sponsorship Company",
+              "text": "sponsorship-company",
               "path": "administration/basic-setup/sponsorship-company.md"
             },
             {
-              "text": "Document Sequence",
+              "text": "document-sequence",
               "path": "administration/basic-setup/document-sequence.md"
             },
             {
-              "text": "User Permission",
+              "text": "user-permission",
               "path": "administration/basic-setup/user-permission.md"
             }
           ]
-        },
-        {
-          "text": "Activity",
-          "path": "administration/activity.md",
-          "children": [
-            {
-              "text": "User",
-              "path": "administration/activity/user.md"
-            },
-            {
-              "text": "Finalized Quotation",
-              "path": "administration/activity/finalized-quotation.md"
-            },
-            {
-              "text": "Workflow",
-              "path": "administration/activity/workflow.md"
-            }
-          ]
-        },
-        {
-          "text": "Report",
-          "path": "administration/report.md",
-          "children": [
-            {
-              "text": "Activity Report",
-              "path": "administration/report/activity-report.md"
-            }
-          ]
-        },
-        {
-          "text": "Settings",
-          "path": "administration/settings.md"
         }
       ]
+    },
+
+    {
+      "text": "activity",
+      "path": "administration/activity.md"
+    },
+    {
+      "text": "user",
+      "path": "administration/activity/user.md"
+    },
+    {
+      "text": "finalized-quotation",
+      "path": "administration/activity/finalized-quotation.md"
+    },
+    {
+      "text": "workflow",
+      "path": "administration/activity/workflow.md"
+    },
+    {
+      "text": "report",
+      "path": "administration/report.md"
+    },
+    {
+      "text": "activity-report",
+      "path": "administration/report/activity-report"
+    },
+    {
+      "text": "settings",
+      "path": "administration/settings.md"
     }
   ]
 }
