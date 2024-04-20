@@ -3,4 +3,4 @@
 - Go to financial period list, click on create financial period 
 Set period 
    
-      Administration >basic>financial period 
+      Administration> basic> financial period 

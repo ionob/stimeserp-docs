@@ -3,4 +3,4 @@
 - Go to the bank list ,  click on create new bank list with account name, bank name, abbreviation ,account number, 
 IBAN no, branch name, address, remarks 
 
-      Administration> basic>bank 
+      Administration> basic> bank 

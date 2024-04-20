@@ -8,13 +8,13 @@
       "items": [
         {
           "text":"dashboard",
-          "path":"dashboard/dashboard.md"
+          "path":"dashboard.md"
         }
       ]
     },
     {
       "text": "Administration",
-      "path": "administration.md",
+      "path": "administration/administration.md",
       "items": [
         {
           "text": "Basic Setup",
