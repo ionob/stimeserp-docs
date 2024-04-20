@@ -5,47 +5,52 @@
       "path": "getting-started.md"
     },
     {
+      "items": [
+        {
+          "text":"dashboard",
+          "path":"dashboard/dashboard.md"
+        }
+      ]
+    },
+    {
       "text": "Administration",
       "path": "administration.md",
       "items": [
         {
           "text": "Basic Setup",
-          "path": "administration/basic-setup.md",
+          "path": "administration/administration.md",
           "items": [
             {
               "text": "Company",
               "path": "administration/basic-setup/company.md"
             },
             {
-              "text": "Bank",
-              "path": "administration/basic-setup/bank.md"
-            },
-            {
-              "text": "Financial Period",
-              "path": "administration/basic-setup/financial-period.md"
-            },
-            {
               "text": "Sponsorship Company",
               "path": "administration/basic-setup/sponsorship-company.md"
             },
             {
-              "text": "Document Sequence",
-              "path": "administration/basic-setup/document-sequence.md"
+              "text":"User",
+              "path":"administration/basic-setup/user.md"
             },
             {
               "text": "User Permission",
               "path": "administration/basic-setup/user-permission.md"
+            },
+            {
+              "text": "bank",
+              "path": "administration/basic-setup/bank.md"
+            },
+            {
+              "text": "financial period",
+              "path": "administration/basic-setup/financial-period.md"
             }
           ]
         },
         {
           "text": "Activity",
-          "path": "administration/activity.md",
+          "path": "administration/activity/activity.md",
           "items": [
-            {
-              "text": "User",
-              "path": "administration/activity/user.md"
-            },
+           
             {
               "text": "Finalized Quotation",
               "path": "administration/activity/finalized-quotation.md"

@@ -32,11 +32,6 @@ Guidance is provided for secure login to protect data from cyber threats.
 
 
 ## ORANIZATIONAL SETTINGS
-              Images /Picture 9.png
-              Images /Picture 10.png
-              Images /Picture 11.png
-              Images /Picture 12.png
-              Images /Picture 13.png
 
 >	The organizational settings include a convenient single-click filter for viewing counts related to companies, sponsor companies, processing dates and financial periods. 
 
