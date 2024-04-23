@@ -1,4 +1,4 @@
-## WHY STIMES ERP?
+## WHY stimeserp?
 
 >* Comprehensive functionality for various business operations 
 >* 	Centralized employee database for managing employee information.

@@ -5,15 +5,9 @@
       "path": "getting-started.md"
     },
     {
-      "items": [
-        {
-          "text":"dashboard",
-           "path": "Dashboard/Dashboard.md"
-          }
-        ]
+      "text":"dashboard",
+        "path": "Dashboard/Dashboard.md"
     },
-      
-    
     {
       "text": "Administration",
       "path": "administration/administration.md",

@@ -3,7 +3,7 @@
 
    
 
->	Stimes ERP software is accessible globally with user credentials. The login page  allows users to enter their username and password.
+>	Stimeserp software is accessible globally with user credentials. The login page  allows users to enter their username and password.
 
 >	**Secure Login**:
 Guidance is provided for secure login to protect data from cyber threats.
