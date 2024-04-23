@@ -1,0 +1,2 @@
+>- ### Staff Approval 
+>The Staff Approval Sub-module typically encompass functionalities related to approving various aspects workflow of employee activities and requests with details like name, previous id, staff name, email, emirate, location, phone and approval.

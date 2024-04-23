@@ -8,10 +8,12 @@
       "items": [
         {
           "text":"dashboard",
-          "path":"dashboard.md"
-        }
-      ]
+           "path": "Dashboard/Dashboard.md"
+          }
+        ]
     },
+      
+    
     {
       "text": "Administration",
       "path": "administration/administration.md",
