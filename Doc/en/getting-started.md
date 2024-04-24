@@ -1,22 +1,16 @@
 # GETTING STARTING WITH STIMES MANPOWER  ERP
 ## Accessing the System/Login
 
-   
-
 >	Stimeserp software is accessible globally with user credentials. The login page  allows users to enter their username and password.
 
 >	**Secure Login**:
 Guidance is provided for secure login to protect data from cyber threats.
-## Dashboard Navigation
-               Images /Picture 2.png
 
->	When you log in, you'll access a dynamic dashboard and module navigator , allowing you to explore the dashboard's functionalities and access essential information. 
-
->	Easily navigate modules with customizable widgets for real-time analytics, aiding decision-making. Access a user-friendly dashboard for comprehensive  workforce oversight in the ERP system
 ## Profile
-                Images /Picture 5.png 
-
+            
 >	At the top right corner, click on the mail address or profile icon to access the complete profile details, including user code, user name, and password change functionalities for editing and confirmation
+![alt text](images/profile-setup.png)
+![alt text](images/profile-setup,1.png)
 
 ## Settings
               Images /Picture 6.png

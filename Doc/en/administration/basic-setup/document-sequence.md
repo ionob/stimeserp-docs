@@ -1,4 +1,4 @@
-# DOCUMENT SEQUENCE 
+# Document Sequence
 - In Stimes ERP, you can create document prefixes that generate unique series for your documents. This system allows for multiple series across all transaction types, providing flexibility in managing and organizing your documents efficientl
 For instance, a series with the prefix STIMESINV12#### could generate IDs like STIMESINV120001, STIMESINV120002, 
 

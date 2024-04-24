@@ -5,16 +5,16 @@
       "path": "getting-started.md"
     },
     {
-      "text":"dashboard",
+      "text":"Dashboard",
         "path": "Dashboard/Dashboard.md"
     },
     {
       "text": "Administration",
-      "path": "administration/administration.md",
+      "path": "Administration/Administration.md",
       "items": [
         {
           "text": "Basic Setup",
-          "path": "administration/administration.md",
+          "path": "administration/Administration.md",
           "items": [
             {
               "text": "Company",
@@ -39,6 +39,10 @@
             {
               "text": "financial period",
               "path": "administration/basic-setup/financial-period.md"
+            },
+            {
+              "text":"document-sequence",
+              "path":"administration/basic-setup/document-sequence"
             }
           ]
         },

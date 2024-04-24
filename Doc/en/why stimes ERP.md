@@ -7,7 +7,7 @@
 >*	Performance evaluation and feedback mechanisms.
 >*	Payroll processing, benefits administration, and tax compliance.
 >*	Unlimited users accounts 
->*User-friendly interface with advanced dashboards.
+>* User-friendly interface with advanced dashboards.
 >*	Compliance with labour laws, regulations, and industry standards.
 >*	Analytics and reporting tools for data-driven decision-making.
 >*	Integration with other business systems for seamless data exchange
