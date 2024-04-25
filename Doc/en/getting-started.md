@@ -87,6 +87,7 @@ Guidance is provided for secure login to protect data from cyber threats.
 >This graph tracks supply and demand of employees with respected Sales person’s name and status . 
 
 ![alt text](<images/demand & supply.png>)
+
 ## Idle Employee 
 >The Idle Employee graph shows number of idle employees  currently staying in the camp
 In graph you can view data of number of Idle employees by number of days 

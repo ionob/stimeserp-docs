@@ -3,3 +3,6 @@
 - Go to the Company list, click on Create company profiles with details like name, Short name, organization address, Country, Currency, website, contact, business type and You can also attach a company logo and add a description for the company
 
       Administration> basic> company
+
+
+![alt text](<../../images/company creation .png>)
