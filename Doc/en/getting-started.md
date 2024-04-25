@@ -23,9 +23,9 @@ Guidance is provided for secure login to protect data from cyber threats.
 
 >In the settings section under themes, users can edit and upload files for elements like the login banner, logo colour, logo white, and loading GIF for both the parent company and suppliers within the ERP system.
 
-![alt text](Settings,theme.png)
-![alt text](Settings,header.png)
+![alt text](images/Settings,theme.png)
 
+![alt text](images/Settings,header.png)
 >	The header part the user can be customize their theme color, Header skin, position and click save, the changes will reflect. 
 
 ## Logout 
@@ -80,26 +80,18 @@ Guidance is provided for secure login to protect data from cyber threats.
 ## Activity Log
 >The activity log in  software is a record of actions or events that occur within the system. It keeps track of user activities, by which user entered on which module at what time 
 
-<div style="text-align:center;">
-    <img src="images/activity log.png" alt="alt text" width="250" height="250">
-</div>
+![alt text](<images/activity log.png>)
 
 
 ## Demand And Supply 
 >This graph tracks supply and demand of employees with respected Sales person’s name and status . 
 
-<div style="text-align:center;">
-    <img src="images/demand & supply.png" alt="alt text" width="250" height="250">
-</div>
-
+![alt text](<images/demand & supply.png>)
 ## Idle Employee 
 >The Idle Employee graph shows number of idle employees  currently staying in the camp
 In graph you can view data of number of Idle employees by number of days 
 
-<div style="text-align:center;">
-    <img src="idle employees.png" alt="alt text" width="300" height="300">
-</div>
-
+![alt text](<images/idle employees.png>)
 
 ## Accommodation
 >The accommodation involves the Camp details in which Total bed space out of which how much occupied and vacant space and count of absent ,and you can view the total absent count
