@@ -6,16 +6,24 @@
 >	**Secure Login**:
 Guidance is provided for secure login to protect data from cyber threats.
 
-## Profile
-            
+## Profile       
 >	At the top right corner, click on the mail address or profile icon to access the complete profile details, including user code, user name, and password change functionalities for editing and confirmation
-![alt text](images/profile-setup.png)
-![alt text](images/profile-setup,1.png)
+
+
+<div style="text-align:center;">
+    <img src="images/profile-setup,1.png" alt="alt text" width="200" height="130">
+</div>
+
+<div style="text-align:center;">
+    <img src="images/profile-setup.png" alt="alt text" width="400" height="150">
+</div>
+
 
 ## Settings
-              Images /Picture 6.png
 
 >In the settings section under themes, users can edit and upload files for elements like the login banner, logo colour, logo white, and loading GIF for both the parent company and suppliers within the ERP system.
+![alt text](Settings,theme.png)
+![alt text](Settings,header.png)
 
              Images /Picture 7.png
 >	The header part the user can be customize their theme color, Header skin, position and click save, the changes will reflect. 
