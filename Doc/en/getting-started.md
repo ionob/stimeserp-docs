@@ -22,39 +22,44 @@ Guidance is provided for secure login to protect data from cyber threats.
 ## Settings
 
 >In the settings section under themes, users can edit and upload files for elements like the login banner, logo colour, logo white, and loading GIF for both the parent company and suppliers within the ERP system.
+
 ![alt text](Settings,theme.png)
 ![alt text](Settings,header.png)
 
-             Images /Picture 7.png
 >	The header part the user can be customize their theme color, Header skin, position and click save, the changes will reflect. 
 
 ## Logout 
-                Images /Picture 8.png
-•	The logout feature allows users to log out once they have completed their tasks or processes within the ERP system.
-
+    
+ - The logout feature allows users to log out once they have completed their tasks or processes within the ERP system.
+<div style="text-align:center;">
+    <img src="logout.png" alt="alt text" width="300" height="200">
+</div>
 
 ## Organisational Settings
 
 >	The organizational settings include a convenient single-click filter for viewing counts related to companies, sponsor companies, processing dates and financial periods. 
+<div style="text-align:center;">
+    <img src="images/Organisation settings.png" alt="alt text" width="400" height="300">
+</div>
+
 
 ## Message, Notification& Employee Global Search 
-     Images /Picture 14.png 
-     Images /Picture 15.png  
-     Images /Picture 16.png
+![alt text](<images/message,notification .png>)
 
 >This functionality keeps users informed about updates and tasks through notifications and messages within the ERP software.
 
 >	The global employee search functionality enables users to Swiftly Locate employee details throughout the entire system.
 
 ## Search Menu  
-      Images /Picture 17.png
+    
 >The search feature in Stimes ERP makes finding Modules details easy. Users enter keywords in the search box for quick, accurate results.
+![alt text](images/search.png)
 
 
 ## Notification For Expiry
 >The notification for expiry in ERP system refers to automated alerts that notify users when certain documents or items are approaching their expiration dates
-Images /Picture 19.png
 
+![alt text](<images/notification for expiry  copy.png>)
 -	Employee Documents: Alerts for passport, visa, certifications, and contracts nearing expiration.
 -	Sponsorship company documents: For companies sponsoring employees or involved in sponsorship agreements, this notification would highlight when legal documents like licenses, permits, or agreements are about to expire, ensuring compliance and continuity.
 -	Projects; Reminders for project milestones, deadlines, and contract renewals.
@@ -64,22 +69,38 @@ Images /Picture 19.png
 ## Employee Count 
 >The employee count section displays a breakdown of the number of active employees by department, there are four departments listed: Site Staff, Staff, Client, and Project. The total number of active employees across all departments will also be displayed 
 
-           Images /Picture 20.png
+![alt text](<images/employeee count.png>)
 
 ## Business Associates 
 >The business associates section shows the number of business associates associated with Clients ,supplier and project
 
+![alt text](<images/business associate .png>)
 
 ## Activity Log
 >The activity log in  software is a record of actions or events that occur within the system. It keeps track of user activities, by which user entered on which module at what time 
 
+<div style="text-align:center;">
+    <img src="images/activity log.png" alt="alt text" width="250" height="250">
+</div>
+
+
 ## Demand And Supply 
 >This graph tracks supply and demand of employees with respected Sales person’s name and status . 
+
+<div style="text-align:center;">
+    <img src="images/demand & supply.png" alt="alt text" width="250" height="250">
+</div>
+
 ## Idle Employee 
 >The Idle Employee graph shows number of idle employees  currently staying in the camp
 In graph you can view data of number of Idle employees by number of days 
 
+<div style="text-align:center;">
+    <img src="idle employees.png" alt="alt text" width="300" height="300">
+</div>
+
+
 ## Accommodation
 >The accommodation involves the Camp details in which Total bed space out of which how much occupied and vacant space and count of absent ,and you can view the total absent count
-   
-         Images /Picture 21.png
+
+![alt text](<images/accommodation .png>)
