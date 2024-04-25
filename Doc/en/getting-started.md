@@ -53,6 +53,7 @@ Guidance is provided for secure login to protect data from cyber threats.
 ## Search Menu  
     
 >The search feature in Stimes ERP makes finding Modules details easy. Users enter keywords in the search box for quick, accurate results.
+
 ![alt text](images/search.png)
 
 
