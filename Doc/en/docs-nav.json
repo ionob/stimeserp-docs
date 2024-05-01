@@ -74,8 +74,17 @@
         {
           "text": "Settings",
           "path": "administration/settings/settings.md"
-        }
+        },
+          {
+            "items":[
+            {
+              "text":"hr",
+              "path":"hr/hr.md"
+            }
+            ]
+          }
       ]
     }
+    
   ]
 }

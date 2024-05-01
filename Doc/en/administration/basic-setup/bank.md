@@ -4,3 +4,5 @@
 IBAN no, branch name, address, remarks 
 
       Administration> basic> bank 
+
+![alt text](../../images/bank_creation.png)

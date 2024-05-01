@@ -4,3 +4,5 @@
 Set period 
    
       Administration> basic> financial period 
+
+![alt text](../../images/financial_period.png)

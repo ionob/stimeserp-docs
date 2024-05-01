@@ -13,3 +13,5 @@ administration> basic> document sequence
 >Note: Anything text added in sequence format will be will be included in sequence number
 if sequence format should be P_01_2023_001_S (ie,"Prefix_Month_Year_SequenceNumber_Suffix" ,then it sequence format should be P_**MM_yyyy**_%%SequenceNumber%%_S)
 >- You can either set sequence in Global sequence or by sponsorship company 
+
+![alt text](../../images/document_sequence.png)
