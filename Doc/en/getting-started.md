@@ -31,10 +31,8 @@ Guidance is provided for secure login to protect data from cyber threats.
 ## Logout 
     
  - The logout feature allows users to log out once they have completed their tasks or processes within the ERP system.
-<div style="text-align:center;">
-    <img src="logout.png" alt="alt text" width="300" height="200">
-</div>
 
+![alt text](images/logout.png)
 ## Organisational Settings
 
 >	The organizational settings include a convenient single-click filter for viewing counts related to companies, sponsor companies, processing dates and financial periods. 
