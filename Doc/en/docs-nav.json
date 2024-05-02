@@ -10,7 +10,8 @@
     },
     {
       "text": "Administration",
-      "path": "Administration/Administration.md",
+      "path": "Administration/administration.md",
+     
       "items": [
         {
           "text": "Basic Setup",
