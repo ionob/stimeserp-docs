@@ -9,6 +9,10 @@
         "path": "Dashboard/Dashboard.md"
     },
     {
+      "text":"hr",
+      "path":"hr/hr.md"
+    },
+    {
       "text": "Administration",
       "path": "administration/administration.md",
      
@@ -75,16 +79,7 @@
         {
           "text": "Settings",
           "path": "administration/settings/settings.md"
-        },
-          {
-            "items":
-            [
-              {
-               "text":"hr",
-               "path":"hr/hr.md"
-              }
-            ]
-          }
+        }
       ]
     }
     
