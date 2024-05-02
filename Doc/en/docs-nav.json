@@ -10,12 +10,12 @@
     },
     {
       "text": "Administration",
-      "path": "Administration/administration.md",
+      "path": "administration/administration.md",
      
       "items": [
         {
           "text": "Basic Setup",
-          "path": "administration/Administration.md",
+          "path": "administration/administration.md",
           "items": [
             {
               "text": "Company",
