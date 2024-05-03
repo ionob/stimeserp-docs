@@ -51,7 +51,8 @@
       "path": "hr/hr.md",
       "items":[
         {
-          "text":"staff"
+          "text":"staff",
+          "path":"hr/Staff/staff-.md"
         },
         {
           "text":"sitestaff",
