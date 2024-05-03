@@ -48,7 +48,16 @@
     },
     {
       "text": "HR",
-      "path": "hr/hr.md"
+      "path": "hr/hr.md",
+      "items":[
+        {
+          "text":"staff"
+        },
+        {
+          "text":"sitestaff",
+          "path":"hr/staff/Sitestaff.md"
+        }
+      ]
     }
   ]
 }
