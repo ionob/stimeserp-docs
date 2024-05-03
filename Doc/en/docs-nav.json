@@ -5,54 +5,21 @@
       "path": "getting-started.md"
     },
     {
-      "text":"Dashboard",
-        "path": "Dashboard/Dashboard.md"
+      "text": "Dashboard",
+      "path": "Dashboard/Dashboard.md"
     },
-    
     {
       "text": "Administration",
       "path": "administration/administration.md",
-     
       "items": [
         {
           "text": "Basic Setup",
-          "path": "administration/administration.md",
-          "items": [
-            {
-              "text": "Company",
-              "path": "administration/basic-setup/company.md"
-            },
-            {
-              "text": "Sponsorship Company",
-              "path": "administration/basic-setup/sponsorship-company.md"
-            },
-            {
-              "text":"User",
-              "path":"administration/basic-setup/user.md"
-            },
-            {
-              "text": "User Permission",
-              "path": "administration/basic-setup/user-permission.md"
-            },
-            {
-              "text": "bank",
-              "path": "administration/basic-setup/bank.md"
-            },
-            {
-              "text": "financial period",
-              "path": "administration/basic-setup/financial-period.md"
-            },
-            {
-              "text":"document-sequence",
-              "path":"administration/basic-setup/document-sequence"
-            }
-          ]
+          "path": "administration/basic-setup/company.md"
         },
         {
           "text": "Activity",
           "path": "administration/activity/activity.md",
           "items": [
-           
             {
               "text": "Finalized Quotation",
               "path": "administration/activity/finalized-quotation.md"
@@ -76,13 +43,12 @@
         {
           "text": "Settings",
           "path": "administration/settings/settings.md"
-        },
-        {
-          "text":"hr",
-          "path":"hr/hr.md"
         }
       ]
+    },
+    {
+      "text": "HR",
+      "path": "hr/hr.md"
     }
-    
   ]
 }
