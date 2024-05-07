@@ -7,4 +7,4 @@
 
 ![alt text](<../../images/company creation .png>)
 
- '*'signifies a mandatory or required fiel
+ '*'signifies a mandatory or required fields

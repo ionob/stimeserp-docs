@@ -49,14 +49,16 @@
     {
       "text": "HR",
       "path": "hr/hr.md",
-      "items":[
+      "items": [
         {
-          "text":"staff",
-          "path":"hr/Staff/staff-.md"
-        },
-        {
-          "text":"sitestaff",
-          "path":"hr/staff/Sitestaff.md"
+          "text": "Basic Setup",
+          "path": "hr/basic-setup/",
+          "items": [
+            {
+              "text": "Site Staff",
+              "path": "hr/basic-setup/Site-Staff"
+            }
+          ]
         }
       ]
     }
