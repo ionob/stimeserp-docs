@@ -56,27 +56,27 @@
           "items": [
             {
               "text": "Site Staff",
-              "path": "hr/basic-setup/Site-Staff.md"
+              "path": "hr/basic-Setup/Site-Staff.md"
             },
             {
-              "text":"Site",
-              "path":"hr/basic-setup/Staff.md"
+              "text":"Staff",
+              "path":"hr/basic-Setup/Staff.md"
             },
             {
               "text":"Staff Category",
-              "path":"hr/basic-setup/Staff-category.md"
+              "path":"hr/basic-Setup/Staff-category.md"
             },
             {
               "text":"Staff Approval",
-              "path":"hr/basic-setup/Staff-approval.md"
+              "path":"hr/basic-Setup/Staff-approval.md"
             },
             {
               "text":"Visit Visa Staff",
-              "path":"hr/basic-setup/Visit-Visa-Staff.md"
+              "path":"hr/basic-Setup/Visit-Visa-Staff.md"
             },
             {
               "text":"Accommodation Type",
-              "path":"hr/basic-setup/Accommodation-type.md"
+              "path":"hr/basic-Setup/Accommodation-type.md"
             }
           ]
         }
