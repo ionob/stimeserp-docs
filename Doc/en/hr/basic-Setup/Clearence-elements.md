@@ -4,3 +4,5 @@
 >- stimeserp allows you to create Clearence Elements with department and Clearence Elements 
 
 HR> Clearence Elements> create 
+
+![alt text](<../../images/clearance element '.png>)

@@ -3,3 +3,5 @@
 
 >The district Sub-module encompass to create new district for state in country 
 HR> District> create 
+
+![alt text](<../../images/district .png>)

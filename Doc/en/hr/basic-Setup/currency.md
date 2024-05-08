@@ -4,3 +4,4 @@
 >- You can create new currency of a county by name, short name, symbol, rate 
 HR> Currency> Create 
 
+![alt text](<../../images/currency .png>)

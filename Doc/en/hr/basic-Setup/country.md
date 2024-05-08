@@ -3,4 +3,5 @@
 
 HR> country> create 
 
+![alt text](<country .png>)
 

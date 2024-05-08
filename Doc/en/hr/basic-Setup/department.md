@@ -3,3 +3,6 @@
 
 >-In stimeserp Sub-module encompass to create new department for the company 
 HR> Department> create 
+
+
+![alt text](<../../images/department '.png>)
