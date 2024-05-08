@@ -14,7 +14,37 @@
       "items": [
         {
           "text": "Basic Setup",
-          "path": "administration/basic-setup/company.md"
+          "path": "administration/basic-setup/company.md",
+          "items":[
+            {
+              "text":"Company",
+              "path":"administration/Basic-setup/Company.md"
+            },
+            {
+              "text":"Sponsorship Company",
+              "path":"administration/Basic-setup/Sponsorship-company.md"
+            },
+            {
+              "text":"User",
+              "path":"administration/basic-setup/User.md"
+            },
+            {
+              "text":"User Permission",
+              "path":"administration/basic-setup/User-permission.md"
+            },
+            {
+              "text":"Bank",
+              "path":"administration/basic-setup/bank.md"
+            },
+            {
+              "text":"Financial Period",
+              "path":"administration/basic-setup/Financial-period.md"
+            },
+            {
+              "text":"Document Sequence",
+              "path":"administration/basic-setup/Document-sequence.md"
+            }
+          ]
         },
         {
           "text": "Activity",
