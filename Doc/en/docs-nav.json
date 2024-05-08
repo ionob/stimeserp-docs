@@ -19,7 +19,7 @@
         {
           "text": "Activity",
           "path": "administration/activity/activity.md",
-          "items": [
+          "items": [ 
             {
               "text": "Finalized Quotation",
               "path": "administration/activity/finalized-quotation.md"
@@ -56,7 +56,27 @@
           "items": [
             {
               "text": "Site Staff",
-              "path": "hr/basic-setup/Site-Staff"
+              "path": "hr/basic-setup/Site-Staff.md"
+            },
+            {
+              "text":"Site",
+              "path":"hr/basic-setup/Staff.md"
+            },
+            {
+              "text":"Staff Category",
+              "path":"hr/basic-setup/Staff-category.md"
+            },
+            {
+              "text":"Staff Approval",
+              "path":"hr/basic-setup/Staff-approval.md"
+            },
+            {
+              "text":"Visit Visa Staff",
+              "path":"hr/basic-setup/Visit-Visa-Staff.md"
+            },
+            {
+              "text":"Accommodation Type",
+              "path":"hr/basic-setup/Accommodation-type.md"
             }
           ]
         }
