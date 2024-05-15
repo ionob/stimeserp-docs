@@ -163,9 +163,8 @@
             {
               "Text":"Insurance Card Type",
               "Path":"hr/basic-setup/insurance-card-type.md"
-            },
-            {
-              "text":
+            }
+           
           ]
         }
       ]

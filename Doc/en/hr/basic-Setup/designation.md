@@ -3,6 +3,6 @@
 
 >The designation Sub-module encompass to create designation to employees for the project by name, rate and rate type , base rate and choose trade
 
-HR> Designation> create 
+HR> Designation> create  
 
 ![alt text](<../../images/designation .png>)
