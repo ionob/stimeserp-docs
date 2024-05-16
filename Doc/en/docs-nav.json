@@ -106,7 +106,7 @@
             },
             {
               "text":"Accommodation Type",
-              "path":"hhr/basic-setup/Working-status-Types.md"
+              "path":"hr/basic-setup/Staff.md"
             },
             {
               "text":"Blood Group",
@@ -180,7 +180,6 @@
               "text":"Working Status Types",
               "path":"hr/basic-setup/Working-status-Types.md"
             }
-           
           ]
         }
       ]
