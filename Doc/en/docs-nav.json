@@ -162,7 +162,20 @@
             },
             {
               "Text":"Insurance Card Type",
-              "Path":"hr/basic-setup/insurance-card-type.md"
+              "Path":"hr/basic-setup/Insurance-card-type.md"
+            },
+            {
+              "Text":"Leave Opening Balance",
+              "Path":"hr/basic-setup/Leave-opening-balance.md"
+            },
+            {
+              "Text":"Leave Status Definition",
+              "Path":"hr/basic-setup/Leave-status-definition.md"
+            },
+            {
+              "Text":"Working Status Types",
+              "Path":"hr/basic-setup/Working-status-Types.md"
+
             }
            
           ]
