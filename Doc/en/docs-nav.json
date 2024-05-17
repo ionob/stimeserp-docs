@@ -105,12 +105,16 @@
               "path":"hr/basic-Setup/Visit-Visa-Staff.md"
             },
             {
+              "text":"Blood Group",
+              "path":"hr/basic-setup/bloodgroup.md"
+            },
+            {
               "text":"Accommodation Type",
-              "path":"hr/basic-setup/Working-status-Types.md"
+              "path":"hr/basic-setup/Accommodation-type.md"
             },
             {
               "text":"Blood Group",
-              "path":"hr/basic-setup/blood-group-list.md"
+              "path":"hr/basic-setup/bloodgroup.md"
             },
             {
               "text":"Clearance Elements",
@@ -178,7 +182,7 @@
             },
             {
               "text":"Working Status Types",
-              "path":"hr/basic-setup/Working-status-Types.md"
+              "path":"hr/basic-setup/Working-status-Types.md".md"
             }
           ]
         }
