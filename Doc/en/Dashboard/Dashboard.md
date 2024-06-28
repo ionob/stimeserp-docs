@@ -6,4 +6,3 @@
 >Easily navigate modules with customizable widgets for real-time analytics, aiding decision-making. Access a user-friendly dashboard for comprehensive  workforce oversight in the ERP system
 
 ![alt text](../images/main-dashboard.png)
-<button name="button" onclick="http://www.google.com">Click me</button>
