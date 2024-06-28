@@ -7,10 +7,3 @@
 
 ![alt text](../images/main-dashboard.png)
 <button name="button" onclick="http://www.google.com">Click me</button>
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
