@@ -9,18 +9,7 @@
 <button name="button" onclick="http://www.google.com">Click me</button>
 <style>
 mark{
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none; /* Removes underline */
-    font-family: 'Poppins', sans-serif; /* Sets font family */
-    color: #333; /* Initial font color */
-    background-color: transparent;
-    border: 1.5px solid #235fe6; /* Border color */
-    border-radius: 15px;
-    transition: background-color 0.3s, color 0.3s;
+    color:red;
 }
 </style>
 
