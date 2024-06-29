@@ -1,4 +1,4 @@
-# GETTING STARTING WITH STIMES MANPOWER  ERP
+# Getting started with Stimes Manpower ERP
 ## Accessing the System/Login
 
 >	Stimeserp software is accessible globally with user credentials. The login page  allows users to enter their username and password.
