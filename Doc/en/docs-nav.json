@@ -193,6 +193,16 @@
               "path": "billing/basic/SOP.md"
             }
           ]
+        },
+        {
+          "text": "Activity",
+          "path": "billing/activity/",
+          "items": [
+            {
+              "text": "Client TimeSheet",
+              "path": "billing/activity/client-timesheet.md"
+            }
+          ]
         }
       ]
     }
