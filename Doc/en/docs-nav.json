@@ -179,6 +179,22 @@
           ]
         }
       ]
+    },
+    {
+      "text": "Billing",
+      "path": "billing/billing.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "billing/basic/",
+          "items": [
+            {
+              "text": "SOP",
+              "path": "billing/basic/SOP.md"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
