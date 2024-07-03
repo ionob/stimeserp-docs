@@ -179,24 +179,6 @@
           ]
         }
       ]
-    },
-    {
-      "text": "Billing",
-      "path": "billing/billing.md",
-      "items": [
-        {
-          "text": "Client Timesheet",
-          "path": "billing/client-timesheet.md"
-        },
-        {
-          "text": "Manual Client Timesheet",
-          "path": "billing/manual-client-timesheet.md"
-        },
-        {
-          "text": "Invoice Settings",
-          "path": "billing/invoice-settings.md"
-        }
-      ]
     }
   ]
-} 
+}
