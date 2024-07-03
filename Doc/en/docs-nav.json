@@ -179,6 +179,52 @@
           ]
         }
       ]
+    },
+    {
+      "text": "Billing",
+      "path": "billing/billing.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "billing/basic/",
+          "items": [
+            {
+              "text": "SOP",
+              "path": "billing/basic/SOP.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "billing/activity/",
+          "items": [
+            {
+              "text": "Client TimeSheet",
+              "path": "billing/activity/client-timesheet.md"
+            },
+            {
+              "text": "Client Invoice",
+              "path": "billing/activity/client-invoice.md"
+            },
+            {
+              "text": "Supplier Invoice",
+              "path": "billing/activity/supplier-invoice.md"
+            },
+            {
+              "text": "Manual Client TimeSheet",
+              "path": "billing/activity/manual-client-timesheet.md"
+            },
+            {
+              "text": "Direct Client Invoice",
+              "path": "billing/activity/direct-client-invoice.md"
+            },
+            {
+              "text": "Direct Supplier Invoice",
+              "path": "billing/activity/direct-supplier-invoice.md"
+            }
+          ]
+        }
+      ]
     }
   ]
-} 
+}
