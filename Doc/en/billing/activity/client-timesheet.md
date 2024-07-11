@@ -20,7 +20,7 @@ This documentation covers the process of managing timesheets within our system. 
 Client timesheets are automatically generated based on the activities and tasks logged for a specific client. These timesheets are linked with client projects and billing.
 
 <div>
-    <img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%;">
+    <img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 1px solid #ccc;">
 </div>
 
 ### Creating a Client Timesheet
@@ -78,14 +78,9 @@ The following fields are required to create a client timesheet:
     </table>
 </div>
 <div style="text-align:left;">
-    <h5>Set Hours to 0</h5>
     <ul>
-        <li>If data is unavailable, enable the checkbox to generate the timesheet with zero hours.</li>
-    </ul>
-<div style="text-align:left;">
-    <h5>Status</h5>
-    <ul>   
-        <li>Initially set to open. It can be edited to be approved or rejected.</li>
+        <li><strong>Set Hours to 0:</strong>If data is unavailable, enable the checkbox to generate the timesheet with zero hours.</li>
+        <li><strong>Status:</strong>Initially set to open. It can be edited to be approved or rejected.</li>
     </ul>
 </div>
 <div>
