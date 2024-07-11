@@ -21,6 +21,7 @@ Client timesheets are automatically generated based on the activities and tasks 
 
 <!-- Soft shadow -->
 <img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
+
 ### Creating a Client Timesheet
 
 The following fields are required to create a client timesheet:
