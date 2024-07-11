@@ -53,6 +53,9 @@ Set the starting date for the timesheet period.
 ##### 7. To Date:
 Set the ending date for the timesheet period.
 
+<div>
+    <img src="../../images/date filter.png" alt="Date Filter" style="border-radius: 10px; width: 70%; height: 70%;">
+</div>
 
 ##### 8. Official:
 Mark the timesheet as Official, Raw, or Missing.
@@ -60,15 +63,15 @@ Mark the timesheet as Official, Raw, or Missing.
 <div style="text-align:center;">
     <table>
         <tr>
-            <td style="width: 20%;">**Official**</td>
+            <td style="width: 20%;">Official</td>
             <td style="text-align: left;">A timesheet marked as official means an invoice can be created against it.</td>
         </tr>
         <tr>
-            <td style="width: 20%;">**Raw**</td>
+            <td style="width: 20%;">Raw</td>
             <td style="text-align: left;">A timesheet marked as raw will only create a draft. At month-end, generate the client timesheet as raw to provide the employee's salary. After obtaining the employee mobilize data, edit the client timesheet and convert it from raw to official.</td>
         </tr>
         <tr>
-            <td style="width: 20%;">**Missing**</td>
+            <td style="width: 20%;">Missing</td>
             <td style="text-align: left;">If exact employee data is not available, mark the timesheet as missing.</td>
         </tr>
     </table>
@@ -79,6 +82,40 @@ If data is unavailable, enable the checkbox to generate the timesheet with zero 
 
 ##### 10. Status:
 Initially set to open. It can be edited to be approved or rejected.
+
+<div>
+    <img src="../../images/status.png" alt="Status" style="border-radius: 10px; width: 70%; height: 70%;">
+</div>
+
+### Generating and Viewing Timesheets
+
+After clicking "Generate," the timesheet will be created under the selected designation. If "Set Hours to 0" is checked, all dates will display the employee's hours as zero. The timesheet can be edited after it has been generated. Here’s an example of the Timesheet generation interface:
+
+<div>
+    <img src="../../images/view timesheet.png" alt="View Timesheet" style="border-radius: 10px; width: 70%; height: 70%;">
+</div>
+
+### Exporting Timesheets
+
+<div style="text-align:center;">
+    <img src="../../images/export option.png" alt="Export Options" style="border-radius: 10px;">
+</div>
+
+<div style="text-align:left;">
+    <h3>Export Options</h3>
+    <ul>
+        <li><strong>Show Client Id:</strong> Display the client ID in the export.</li>
+        <li><strong>Show Previous Id:</strong> Display the previous ID in the export.</li>
+        <li><strong>Show Rate And Amount:</strong> Include rate and amount details.</li>
+        <li><strong>Show VAT:</strong> Include VAT information.</li>
+        <li><strong>Include Logo:</strong> Add a logo to the export.</li>
+        <li><strong>Show Approved By:</strong> Display the approver's details.</li>
+        <li><strong>Show OT Details:</strong> Include overtime details.</li>
+        <li><strong>Show Tradewise:</strong> Display trade-wise information.</li>
+        <li><strong>Hour Format:</strong> Export in hour format.</li>
+        <li><strong>Attendance Format:</strong> Export in attendance format.</li>
+    </ul>
+</div>
 
 ### Related Topics
 
