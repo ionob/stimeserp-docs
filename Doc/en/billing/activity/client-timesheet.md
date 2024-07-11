@@ -20,7 +20,7 @@ This documentation covers the process of managing timesheets within our system. 
 Client timesheets are automatically generated based on the activities and tasks logged for a specific client. These timesheets are linked with client projects and billing.
 
 <!-- Soft shadow -->
-<img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.7px solid #333;">
+<img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ### Creating a Client Timesheet
 The following fields are required to create a client timesheet:
@@ -32,7 +32,7 @@ The following fields are required to create a client timesheet:
     </ul>
 </div>
 <div>
-    <img src="../../images/timesheet details.png" alt="Timesheet Details" style="border-radius: 10px; width: 70%; height: 70%; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
+    <img src="../../images/timesheet details.png" alt="Timesheet Details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 <div style="text-align:left;">
     <ul>
