@@ -26,9 +26,9 @@ Client timesheets are automatically generated based on the activities and tasks 
 The following fields are required to create a client timesheet:
 <div style="text-align:left;">
     <ul>
-        <li><strong>TimeSheet No:</strong>This field will be auto-generated.</li>
-        <li><strong>Client:</strong>Search and select the client for whom the timesheet is being created.</li>
-        <li><strong>Site:</strong>Specify the site associated with the client. You can create multiple sites under a single client. When generating a client timesheet, you must select at least one site or you can select multiple sites for the timesheet generation.</li>
+        <li><strong>TimeSheet No:</strong> This field will be auto-generated.</li>
+        <li><strong>Client:</strong> Search and select the client for whom the timesheet is being created.</li>
+        <li><strong>Site:</strong> Specify the site associated with the client. You can create multiple sites under a single client. When generating a client timesheet, you must select at least one site or you can select multiple sites for the timesheet generation.</li>
     </ul>
 </div>
 <div>
@@ -36,26 +36,26 @@ The following fields are required to create a client timesheet:
 </div>
 <div style="text-align:left;">
     <ul>
-        <li><strong>Designation:</strong>Select the designation of the employee you want to generate client timesheet. You can create multiple designations. Designations will only appear in the client timesheet after employee mobilizing data has been added in project mobilizing data. This can be navigated using **Operation > Activity > Project Mobilization**, where site details and mobilized employees with their designations can be viewed.The designation will only show in the client timesheet after selecting the site.</li>
+        <li><strong>Designation:</strong> Select the designation of the employee you want to generate client timesheet. You can create multiple designations. Designations will only appear in the client timesheet after employee mobilizing data has been added in project mobilizing data. This can be navigated using **Operation > Activity > Project Mobilization**, where site details and mobilized employees with their designations can be viewed.The designation will only show in the client timesheet after selecting the site.</li>
     </ul>
 </div>
 <div>
-    <img src="../../images/Project mobilisation.png" alt="Project Mobilisation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%;">
-    <img src="../../images/Designation.png" alt="Designation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%;">
+    <img src="../../images/Project mobilisation.png" alt="Project Mobilisation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%; border: 0.5px solid #333;">
+    <img src="../../images/Designation.png" alt="Designation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 <div style="text-align:left;">
     <ul>
-        <li><strong>Month:</strong>Select the month for which the timesheet is applicable.</li>
-        <li><strong>From Date:</strong>Set the starting date for the timesheet period.</li>
-        <li><strong>To Date:</strong>Set the ending date for the timesheet period.</li>
+        <li><strong>Month:</strong> Select the month for which the timesheet is applicable.</li>
+        <li><strong>From Date:</strong> Set the starting date for the timesheet period.</li>
+        <li><strong>To Date:</strong> Set the ending date for the timesheet period.</li>
     </ul>
 </div>
 <div>
-    <img src="../../images/date filter.png" alt="Date Filter" style="border-radius: 10px; width: 70%; height: 70%;">
+    <img src="../../images/date filter.png" alt="Date Filter" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 <div style="text-align:left;">
     <ul>
-        <li><strong>Official:</strong>Mark the timesheet as Official, Raw, or Missing.</li>
+        <li><strong>Official:</strong> Mark the timesheet as Official, Raw, or Missing.</li>
     </ul>
 </div>
 <div style="text-align:center;">
@@ -76,12 +76,12 @@ The following fields are required to create a client timesheet:
 </div>
 <div style="text-align:left;">
     <ul>
-        <li><strong>Set Hours to 0:</strong>If data is unavailable, enable the checkbox to generate the timesheet with zero hours.</li>
-        <li><strong>Status:</strong>Initially set to open. It can be edited to be approved or rejected.</li>
+        <li><strong>Set Hours to 0:</strong> If data is unavailable, enable the checkbox to generate the timesheet with zero hours.</li>
+        <li><strong>Status:</strong> Initially set to open. It can be edited to be approved or rejected.</li>
     </ul>
 </div>
 <div>
-    <img src="../../images/status.png" alt="Status" style="border-radius: 10px; width: 70%; height: 70%;">
+    <img src="../../images/status.png" alt="Status" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Generating and Viewing Timesheets
@@ -89,13 +89,13 @@ The following fields are required to create a client timesheet:
 After clicking "Generate," the timesheet will be created under the selected designation. If "Set Hours to 0" is checked, all dates will display the employee's hours as zero. The timesheet can be edited after it has been generated. Here’s an example of the Timesheet generation interface:
 
 <div>
-    <img src="../../images/view timesheet.png" alt="View Timesheet" style="border-radius: 10px; width: 70%; height: 70%;">
+    <img src="../../images/view timesheet.png" alt="View Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Exporting Timesheets
 
 <div style="text-align:center;">
-    <img src="../../images/export option.png" alt="Export Options" style="border-radius: 10px;">
+    <img src="../../images/export option.png" alt="Export Options" style="border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
 <div style="text-align:left;">
