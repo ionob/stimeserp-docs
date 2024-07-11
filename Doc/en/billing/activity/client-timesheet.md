@@ -5,13 +5,16 @@ This documentation covers the process of managing timesheets within our system. 
 
 ### Types of Timesheets
 
-###### Client Timesheet
-###### Manual Client Timesheet
+<div style="text-align:left;">
+    <ul>
+        <li><strong>Client Timesheet</strong></li>
+        <li><strong>Manual Client Timesheet</strong></li>
+    </ul>
+</div>
 
 ## Creating a Timesheet
-
 You can access and manage your timesheets through the following sections:
-**Billing** > **Activity** > **Client Timesheet** or **Manual Client Timesheet**
+<span style="color: #007bff">Billing</span> > <span style="color: #007bff">Activity</span> > <span style="color: #007bff">Client Timesheet</span> or <span style="color: #007bff">Manual Client Timesheet</span>
 
 ## Client Timesheet
 
