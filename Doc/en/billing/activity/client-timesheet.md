@@ -12,7 +12,7 @@ This documentation covers the process of managing timesheets within our system. 
     </ul>
 </div>
 
-## Creating a Timesheet
+### Creating a Timesheet
 >	You can access and manage your timesheets through the following sections: **Billing** **→** **Activity** **→** **Client Timesheet** or **Manual Client Timesheet**
 
 ## Client Timesheet
@@ -27,43 +27,40 @@ Client timesheets are automatically generated based on the activities and tasks 
 
 The following fields are required to create a client timesheet:
 
-##### 1. TimeSheet No:
-This field will be auto-generated.
-
-##### 2. Client:
-Search and select the client for whom the timesheet is being created.
-
-##### 3. Site:
-Specify the site associated with the client. You can create multiple sites under a single client. When generating a client timesheet, you must select at least one site or you can select multiple sites for the timesheet generation.
-
+<div style="text-align:left;">
+    <ul>
+        <li><strong>TimeSheet No:</strong>This field will be auto-generated.</li>
+        <li><strong>Client:</strong>Search and select the client for whom the timesheet is being created.</li>
+        <li><strong>Site:</strong>Specify the site associated with the client. You can create multiple sites under a single client. When generating a client timesheet, you must select at least one site or you can select multiple sites for the timesheet generation.</li>
+    </ul>
+</div>
 <div>
     <img src="../../images/timesheet details.png" alt="Timesheet Details" style="border-radius: 10px; width: 70%; height: 70%;">
 </div>
-
-##### 4. Designation:
-Select the designation of the employee you want to generate client timesheet. You can create multiple designations. Designations will only appear in the client timesheet after employee mobilizing data has been added in project mobilizing data. This can be navigated using **Operation > Activity > Project Mobilization**, where site details and mobilized employees with their designations can be viewed.The designation will only show in the client timesheet after selecting the site.
-
+<div style="text-align:left;">
+    <ul>
+        <li><strong>Designation:</strong>Select the designation of the employee you want to generate client timesheet. You can create multiple designations. Designations will only appear in the client timesheet after employee mobilizing data has been added in project mobilizing data. This can be navigated using **Operation > Activity > Project Mobilization**, where site details and mobilized employees with their designations can be viewed.The designation will only show in the client timesheet after selecting the site.</li>
+    </ul>
+</div>
 <div>
     <img src="../../images/Project mobilisation.png" alt="Project Mobilisation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%;">
     <img src="../../images/Designation.png" alt="Designation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%;">
 </div>
-
-##### 5. Month:
-Select the month for which the timesheet is applicable.
-
-##### 6. From Date:
-Set the starting date for the timesheet period.
-
-##### 7. To Date:
-Set the ending date for the timesheet period.
-
+<div style="text-align:left;">
+    <ul>
+        <li><strong>Month:</strong>Select the month for which the timesheet is applicable.</li>
+        <li><strong>From Date:</strong>Set the starting date for the timesheet period.</li>
+        <li><strong>To Date:</strong>Set the ending date for the timesheet period.</li>
+    </ul>
+</div>
 <div>
     <img src="../../images/date filter.png" alt="Date Filter" style="border-radius: 10px; width: 70%; height: 70%;">
 </div>
-
-##### 8. Official:
-Mark the timesheet as Official, Raw, or Missing.
-
+<div style="text-align:left;">
+    <ul>
+        <li><strong>Official:</strong>Mark the timesheet as Official, Raw, or Missing.</li>
+    </ul>
+</div>
 <div style="text-align:center;">
     <table>
         <tr>
@@ -80,13 +77,17 @@ Mark the timesheet as Official, Raw, or Missing.
         </tr>
     </table>
 </div>
-
-##### 9. Set Hours to 0:
-If data is unavailable, enable the checkbox to generate the timesheet with zero hours.
-
-##### 10. Status:
-Initially set to open. It can be edited to be approved or rejected.
-
+<div style="text-align:left;">
+    <h5>Set Hours to 0</h5>
+    <ul>
+        <li>If data is unavailable, enable the checkbox to generate the timesheet with zero hours.</li>
+    </ul>
+<div style="text-align:left;">
+    <h5>Status</h5>
+    <ul>   
+        <li>Initially set to open. It can be edited to be approved or rejected.</li>
+    </ul>
+</div>
 <div>
     <img src="../../images/status.png" alt="Status" style="border-radius: 10px; width: 70%; height: 70%;">
 </div>
