@@ -34,7 +34,7 @@ The following fields are required to create a client timesheet:
     </ul>
 </div>
 <div>
-    <img src="../../images/timesheet details.png" alt="Timesheet Details" style="border-radius: 10px; width: 70%; height: 70%;">
+    <img src="../../images/timesheet details.png" alt="Timesheet Details" style="border-radius: 10px; width: 70%; height: 70%; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
 </div>
 <div style="text-align:left;">
     <ul>
