@@ -15,6 +15,4 @@
 
 Client timesheets are automatically generated based on the activities and tasks logged for a specific client. These timesheets are linked with client projects and billing.
 
-<div style="text-align:center;">
-    <img src="images/Airport.png" alt="Airport" width="400" height="150">
-</div>
+![Client Timesheet](../images/client-timesheet.png)
