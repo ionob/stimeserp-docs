@@ -1,18 +1,17 @@
 # Timesheet
 
-    ## Overview
-    This documentation covers the process of managing timesheets within our system. There are two types of timesheets:
-## Navigating Timesheets
+## Overview
+This documentation covers the process of managing timesheets within our system. There are two types of timesheets:
 
-> You can access and manage your timesheets through the following sections:
-> - **Billing**
->   - **Activity**
->     - **Client Timesheet** / **Manual Client Timesheet**
+### Types of Timesheets
 
-## Types of Timesheets
+#### Client Timesheet
+#### Manual Client Timesheet
 
-### 1. Client Timesheet
-### 2. Manual Client Timesheet
+## Creating a Timesheet
+
+You can access and manage your timesheets through the following sections:
+**Billing** > **Activity** > **Client Timesheet** or **Manual Client Timesheet**
 
 ## Client Timesheet
 
