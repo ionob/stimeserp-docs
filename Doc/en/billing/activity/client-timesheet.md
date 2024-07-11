@@ -5,8 +5,8 @@ This documentation covers the process of managing timesheets within our system. 
 
 ### Types of Timesheets
 
-##### Client Timesheet
-##### Manual Client Timesheet
+###### Client Timesheet
+###### Manual Client Timesheet
 
 ## Creating a Timesheet
 
