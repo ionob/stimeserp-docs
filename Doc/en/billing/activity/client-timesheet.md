@@ -60,16 +60,16 @@ Mark the timesheet as Official, Raw, or Missing.
 <div style="text-align:center;">
     <table>
         <tr>
-            <td style="text-align:left;">**Official**</td>
-            <td>A timesheet marked as official means an invoice can be created against it.</td>
+            <td style="width: 20%;">**Official**</td>
+            <td style="text-align: left;">A timesheet marked as official means an invoice can be created against it.</td>
         </tr>
         <tr>
-            <td>**Raw**</td>
-            <td>A timesheet marked as raw will only create a draft. At month-end, generate the client timesheet as raw to provide the employee's salary. After obtaining the employee mobilize data, edit the client timesheet and convert it from raw to official.</td>
+            <td style="width: 20%;">**Raw**</td>
+            <td style="text-align: left;">A timesheet marked as raw will only create a draft. At month-end, generate the client timesheet as raw to provide the employee's salary. After obtaining the employee mobilize data, edit the client timesheet and convert it from raw to official.</td>
         </tr>
         <tr>
-            <td>**Missing**</td>
-            <td>If exact employee data is not available, mark the timesheet as missing.</td>
+            <td style="width: 20%;">**Missing**</td>
+            <td style="text-align: left;">If exact employee data is not available, mark the timesheet as missing.</td>
         </tr>
     </table>
 </div>
