@@ -15,4 +15,4 @@
 
 Client timesheets are automatically generated based on the activities and tasks logged for a specific client. These timesheets are linked with client projects and billing.
 
-![Client Timesheet](../images/client-timesheet.png)
+![Alt text](../../images/client-timesheet.png)
