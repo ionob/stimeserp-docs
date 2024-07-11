@@ -23,20 +23,21 @@ Client timesheets are automatically generated based on the activities and tasks 
 
 The following fields are required to create a client timesheet:
 
-#### 1. TimeSheet No:
+##### 1. TimeSheet No:
 This field will be auto-generated.
 
-#### 2. Client:
+##### 2. Client:
 Search and select the client for whom the timesheet is being created.
 
-#### 3. Site:
+##### 3. Site:
 Specify the site associated with the client. You can create multiple sites under a single client. When generating a client timesheet, you must select at least one site or you can select multiple sites for the timesheet generation.
 
 <div style="text-align:center;">
     <img src="../../images/timesheet details.png" alt="Timesheet Details" style="border-radius: 10px;">
 </div>
 
-
+##### 4. Designation:
+Select the designation of the employee you want to generate client timesheet. You can create multiple designations. Designations will only appear in the client timesheet after employee mobilizing data has been added in project mobilizing data. This can be navigated using **Operation > Activity > Project Mobilization**, where site details and mobilized employees with their designations can be viewed. The designation will only show in the client timesheet after selecting the site.
 
 
 
@@ -53,3 +54,4 @@ Specify the site associated with the client. You can create multiple sites under
 
 * [How to Create a Client ?](../client.md)
 * [How to Create a Site ?](../site.md)
+* [How to Create a Designation ?](../designation.md)
