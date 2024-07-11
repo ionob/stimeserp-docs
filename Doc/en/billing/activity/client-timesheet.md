@@ -60,7 +60,7 @@ Mark the timesheet as Official, Raw, or Missing.
 <div style="text-align:center;">
     <table>
         <tr>
-            <td>**Official**</td>
+            <td style="text-align:left;">**Official**</td>
             <td>A timesheet marked as official means an invoice can be created against it.</td>
         </tr>
         <tr>
