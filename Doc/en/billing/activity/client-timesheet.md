@@ -1,4 +1,7 @@
 # Timesheet
+
+    ## Overview
+    This documentation covers the process of managing timesheets within our system. There are two types of timesheets:
 ## Navigating Timesheets
 
 > You can access and manage your timesheets through the following sections:
