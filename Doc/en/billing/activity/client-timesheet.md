@@ -94,7 +94,7 @@ After clicking "Generate," the timesheet will be created under the selected desi
 
 ### Exporting Timesheets
 
-<div style="text-align:center;">
+<div>
     <img src="../../images/export option.png" alt="Export Options" style="border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
