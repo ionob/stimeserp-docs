@@ -19,10 +19,8 @@ This documentation covers the process of managing timesheets within our system. 
 
 Client timesheets are automatically generated based on the activities and tasks logged for a specific client. These timesheets are linked with client projects and billing.
 
-<div>
-    <img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 1px solid #ccc;">
-</div>
-
+<!-- Soft shadow -->
+<img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
 ### Creating a Client Timesheet
 
 The following fields are required to create a client timesheet:
