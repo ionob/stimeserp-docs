@@ -219,7 +219,7 @@ Enable the "Is Final" button in the timesheet and click save. If the timesheet i
 
 ### Related Topics
 
-* [How to Create a Client ?](../client.md)
+* [How to Create a Client ?](../Client.md)
 * [How to Create a Site ?](../site.md)
 * [How to Create a Designation ?](../designation.md)
 * [How to Generate a Client Invoice ?](../clientinvoice.md)
