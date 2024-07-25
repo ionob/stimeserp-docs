@@ -54,33 +54,5 @@ Click on New Client: To create a new client, navigate to the Client section and 
     <ul>
         <li><strong>Description:</strong> Select the currency of the client. The default currency under the client's country will be shown.</li>
     </ul>
-
-**Payment Schedule:**
-    <ul>
-        <li><strong>Description:</strong> Specify the payment schedule of the client, indicating the expected payment date range (e.g., 30 days, 90 days, etc.).</li>
-        <li><strong>Configuration:</strong> Payment schedules can be added from **HR** **->** **Basic** **->** **Payment Schedule**.</li>
-    </ul>
-
-**Grades:**
-    <ul>
-        <li><strong>Description:</strong> Define the quality of the client based on grades.</li>
-        <li><strong>Configuration:</strong> Grades can be added from **HR** **->** **Basic** **->** **Grades**.</li>
-    </ul>
-
-**TRN (Tax Registration Number):**
-    <ul>
-        <li><strong>Description:</strong> TRN stands for Tax Registration Number under laws.</li>
-    </ul>
-
-**Website:**
-    <ul>
-        <li><strong>Description:</strong> Enter the website details of the client.</li>
-    </ul>
-
-**Account:**
-    <ul>
-        <li><strong>Description:</strong> Select the tax account of the client. You can use the 'Generate Account' button to create an account for the client and assign it.</li>
-        <li><strong>Configuration:</strong> Accounts can also be created from **Accounts** **->** **Basic** **->** **Chart of Accounts**.</li>
-    </ul>
 </div>
 
