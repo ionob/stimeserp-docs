@@ -77,66 +77,6 @@
       ]
     },
     {
-      "text": "Business Development",
-      "path": "Business Development/Business Development.md",
-      "items": [
-        {
-          "text": "Basic",
-          "path": "Business Development/Basic/Client.md",
-          "items":[
-            {
-              "text":"Client",
-              "path":"Business Development/Basic/Client.md"
-            },
-            {
-              "text":"Project",
-              "path":"Business Development/basic/Project.md"
-            },
-            {
-              "text":"Rate Contract Template",
-              "path":"Business Development/basic/Rate Contract Template.md"
-            }
-          ]
-        },
-        {
-          "text": "Activity",
-          "path": "Business Development/activity/activity.md",
-          "items": [ 
-            {
-              "text": "Sales Demand Request",
-              "path": "Business Development/activity/Sales Demand Request.md"
-            },
-            {
-              "text": "Sales Demobilization",
-              "path": "Business Development/activity/Sales Demobilization.md"
-            }
-          ]
-        },
-        {
-          "text": "Report",
-          "path": "Business Development/report.md",
-          "items": [
-            {
-              "text": "Client",
-              "path": "Business Development/report/Client.md"
-            },
-            {
-              "text": "Project",
-              "path": "Business Development/report/Project.md"
-            },
-            {
-              "text": "Salesman Idle Employee",
-              "path": "Business Development/report/Salesman Idle Employee.md"
-            }
-          ]
-        },
-        {
-          "text": "Settings",
-          "path": "administration/settings/settings.md"
-        }
-      ]
-    },
-    {
       "text": "HR",
       "path": "hr/hr.md",
       "items": [
