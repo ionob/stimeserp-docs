@@ -95,45 +95,39 @@ Click on New Client: To create a new client, navigate to the Client section and 
     <ul>
         <li>Enter the telephone number of the client.</li>
     </ul>
-</div>
 
 **Mobile No:**
     <ul>
         <li>Enter the mobile number of the client.</li>
     </ul>
-</div>
 
 **Location:**
     <ul>
         <li>Enter the location of the client.</li>
         <li>Locations can be created from **HR** **->** **Basic** **->** **Locations**.</li>
     </ul>
-</div>
 
 **Address:**
     <ul>
         <li>Enter the address of the client.</li>
     </ul>
-</div>
 
 **Email:**
     <ul>
         <li>Enter the email address of the client.</li>
     </ul>
-</div>
 
 **Fax:**
     <ul>
         <li>Enter the fax number of the client.</li>
     </ul>
-</div>
 
 **Po Box No:**
     <ul>
         <li>Enter the post box number of the client.</li>
     </ul>
-</div>
 
 <div>
     <img src="../../images/new client two.png" alt="new client two" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+</div>
 </div>
