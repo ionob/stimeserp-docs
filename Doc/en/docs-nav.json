@@ -82,7 +82,7 @@
       "items": [
         {
           "text": "Basic Setup",
-          "path": "hr/basic-setup/",
+          "path": "hr/basic-Setup/",
           "items": [
             {
               "text": "Site Staff",
@@ -95,6 +95,86 @@
             {
               "text":"Staff Category",
               "path":"hr/basic-Setup/Staff-category.md"
+            },
+            {
+              "text":"Staff Approval",
+              "path":"hr/basic-Setup/Staff-approval.md"
+            },
+            {
+              "text":"Accommodation Type",
+              "path":"hr/basic-Setup/Accommodation-type.md"
+            },
+            {
+              "text":"Blood Group",
+              "path":"hr/basic-Setup/bloodgroup.md"
+            },
+            {
+              "text":"Clearance Elements",
+              "path":"hr/basic-Setup/Clearance-elements.md"
+            },
+            {
+              "text":"Country",
+              "path":"hr/basic-Setup/country.md"
+            },
+            {
+              "text":"Currency",
+              "path":"hr/basic-Setup/currency.md"
+            },
+            {
+              "text":"Department",
+              "path":"hr/basic-Setup/department.md"
+            },
+            {
+              "text":"Department Head",
+              "path":"hr/basic-Setup/department-Head.md"
+            },
+            {
+              "text":"Designation",
+              "path":"hr/basic-Setup/designation.md"
+            },
+            {
+              "text":"District",
+              "path":"hr/basic-Setup/district.md"
+            },
+            {
+              "text":"Visa Cost",
+              "path":"hr/basic-Setup/visa-cost.md"
+            },
+            {
+              "text":"Document Type",
+              "path":"hr/basic-Setup/Document-Type.md"
+            },
+            {
+              "text":"Emirates",
+              "path":"hr/basic-Setup/emirates.md"
+            },
+            {
+              "text":"Holidays",
+              "path":"hr/basic-Setup/holidays.md"
+            },
+            {
+              "text":"Holiday Type",
+              "path": "hr/basic-Setup/holiday-type.md"
+            },
+            {
+              "text":"Insurance Card Type",
+              "path":"hr/basic-Setup/Insurance-card-type.md"
+            },
+            {
+              "text":"Leave Opening Balance",
+              "path":"hr/basic-Setup/Leave-opening-balance.md"
+            },
+            {
+              "text":"Leave Status Definition",
+              "path":"hr/basic-Setup/Leave-status-definition.md"
+            },
+            {
+              "text":"Working Status Types",
+              "path":"hr/basic-Setup/Working-status-Types.md"
+            },
+            {
+              "text":"Working Status Types",
+              "path":"hr/basic-Setup/Working-status-Types.md"
             }
           ]
         }
