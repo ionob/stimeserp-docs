@@ -22,15 +22,15 @@
             },
             {
               "text":"Sponsorship Company",
-              "path":"administration/basic-setup/Sponsorship-company.md"
+              "path":"administration/basic-setup/sponsorship-company.md"
             },
             {
               "text":"User",
-              "path":"administration/basic-setup/User.md"
+              "path":"administration/basic-setup/user.md"
             },
             {
               "text":"User Permission",
-              "path":"administration/basic-setup/User-permission.md"
+              "path":"administration/basic-setup/user-permission.md"
             },
             {
               "text":"Bank",
@@ -38,11 +38,11 @@
             },
             {
               "text":"Financial Period",
-              "path":"administration/basic-setup/Financial-period.md"
+              "path":"administration/basic-setup/financial-period.md"
             },
             {
               "text":"Document Sequence",
-              "path":"administration/basic-setup/Document-sequence.md"
+              "path":"administration/basic-setup/document-sequence.md"
             }
           ]
         },
