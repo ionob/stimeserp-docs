@@ -14,11 +14,11 @@
       "items": [
         {
           "text": "Basic Setup",
-          "path": "administration/basic-setup/company.md",
+          "path": "administration/basic-setup",
           "items":[
             {
               "text":"Company",
-              "path":"administration/basic-setup/Company.md"
+              "path":"administration/basic-setup/company.md"
             },
             {
               "text":"Sponsorship Company",
