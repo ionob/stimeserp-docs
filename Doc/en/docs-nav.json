@@ -87,6 +87,10 @@
             {
               "text": "Site Staff",
               "path": "hr/basic-setup/Site-Staff.md"
+            },
+            {
+              "text": "Staff",
+              "path": "hr/basic-setup/Staff.md"
             }
           ]
         }
