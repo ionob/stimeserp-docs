@@ -4,7 +4,7 @@
 The Client Management module in our ERP system allows users to efficiently manage client information, track relevant details, and maintain organized records. This module is crucial for handling client data, including contact information, payment schedules, and document management.
 
 <div>
-    <img src="../../images/client dashboard.png" alt="client dashboard" style="border-radius: 10px; width: 60%; height: 60%; border: 0.5px solid #333;">
+    <img src="../../images/client dashboard.png" alt="client dashboard" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
 </div>
 
 ### How to Create New Client
@@ -14,7 +14,7 @@ The Client Management module in our ERP system allows users to efficiently manag
 Click on New Client: To create a new client, navigate to the Client section and click on the 'New Client' button.
 
 <div>
-    <img src="../../images/new client.png" alt="new client" style="border-radius: 10px; width: 60%; height: 60%; border: 0.5px solid #333;">
+    <img src="../../images/new client.png" alt="new client" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
 </div>
 
 ### Client Details
@@ -94,5 +94,5 @@ Enter the fax number of the client.
 Enter the post box number of the client.
 
 <div>
-    <img src="../../images/new client two.png" alt="new client two" style="border-radius: 10px; width: 60%; height: 60%; border: 0.5px solid #333;">
+    <img src="../../images/new client two.png" alt="new client two" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
 </div>
