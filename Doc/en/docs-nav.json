@@ -82,11 +82,11 @@
       "items": [
         {
           "text": "Basic",
-          "path": "Business Development/basic/Client.md",
+          "path": "Business Development/Basic/Client.md",
           "items":[
             {
               "text":"Client",
-              "path":"Business Development/basic/Client.md"
+              "path":"Business Development/Basic/Client.md"
             },
             {
               "text":"Project",
