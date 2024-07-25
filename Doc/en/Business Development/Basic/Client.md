@@ -21,102 +21,102 @@ Click on New Client: To create a new client, navigate to the Client section and 
 
 <div style="text-align:left;">
 
-*Client Id:*
+*<strong>Client Id:</strong>*
     <ul>
-        <li><strong>Description:</strong> This is a system-generated sequence number for the client.</li>
-        <li><strong>Configuration:</strong> The sequence can be defined in **Administration** **->** **Basic** **->** **Document Sequence**.</li>
+        <li>Description: This is a system-generated sequence number for the client.</li>
+        <li>Configuration: The sequence can be defined in **Administration** **->** **Basic** **->** **Document Sequence**.</li>
     </ul>
 
-*Client Name:*
+*<strong>Client Name:</strong>*
     <ul>
-        <li><strong>Description:</strong> Enter the name of the client.</li>
+        <li>Description: Enter the name of the client.</li>
     </ul>
 
-*Country:*
+*<strong>Country:</strong>*
     <ul>
-        <li><strong>Description:</strong> Select the country of the client.</li>
-        <li><strong>Configuration:</strong> Countries can be added from **HR** **->** **Basic** **->** **Country**.</li>
+        <li>Description: Select the country of the client.</li>
+        <li>Configuration: Countries can be added from **HR** **->** **Basic** **->** **Country**.</li>
     </ul>
 
-*Emirates:*
+*<strong>Emirates:</strong>*
     <ul>
-        <li><strong>Description:</strong> Select the emirates of the client.</li>
-        <li><strong>Configuration:</strong> Emirates can be added from **HR** **->** **Basic** **->** **Emirates**.</li>
+        <li>Description: Select the emirates of the client.</li>
+        <li>Configuration: Emirates can be added from **HR** **->** **Basic** **->** **Emirates**.</li>
     </ul>
 
-*Customer:*
+*<strong>Customer:</strong>*
     <ul>
-        <li><strong>Description:</strong> Used to connect the client with a CRM customer.</li>
-        <li><strong>Configuration:</strong> Customers can be added from **CRM** **->** **Basic** **->** **Customer**.</li>
+        <li>Description: Used to connect the client with a CRM customer.</li>
+        <li>Configuration: Customers can be added from **CRM** **->** **Basic** **->** **Customer**.</li>
     </ul>
 
-*Currency:*
+*<strong>Currency:</strong>*
     <ul>
-        <li><strong>Description:</strong> Select the currency of the client. The default currency under the client's country will be shown.</li>
+        <li>Description: Select the currency of the client. The default currency under the client's country will be shown.</li>
     </ul>
 
-*Payment Schedule:*
+*<strong>Payment Schedule:</strong>*
     <ul>
-        <li><strong>Description:</strong> Specify the payment schedule of the client, indicating the expected payment date range (e.g., 30 days, 90 days, etc.).</li>
-        <li><strong>Configuration:</strong> Payment schedules can be added from **HR** **->** **Basic** **->** **Payment Schedule**.</li>
+        <li>Description: Specify the payment schedule of the client, indicating the expected payment date range (e.g., 30 days, 90 days, etc.).</li>
+        <li>Configuration: Payment schedules can be added from **HR** **->** **Basic** **->** **Payment Schedule**.</li>
     </ul>
 
-*Grades:*
+*<strong>Grades:</strong>*
     <ul>
-        <li><strong>Description:</strong> Define the quality of the client based on grades.</li>
-        <li><strong>Configuration:</strong> Grades can be added from **HR** **->** **Basic** **->** **Grades**.</li>
+        <li>Description: Define the quality of the client based on grades.</li>
+        <li>Configuration: Grades can be added from **HR** **->** **Basic** **->** **Grades**.</li>
     </ul>
 
-*TRN (Tax Registration Number):*
+*<strong>TRN (Tax Registration Number):</strong>*
     <ul>
-        <li><strong>Description:</strong> TRN stands for Tax Registration Number under laws.</li>
+        <li>Description: TRN stands for Tax Registration Number under laws.</li>
     </ul>
 
-*Website:*
+*<strong>Website:</strong>*
     <ul>
-        <li><strong>Description:</strong> Enter the website details of the client.</li>
+        <li>Description: Enter the website details of the client.</li>
     </ul>
 
-*Account:*
+*<strong>Account:</strong>*
     <ul>
-        <li><strong>Description:</strong> Select the tax account of the client. You can use the 'Generate Account' button to create an account for the client and assign it.</li>
-        <li><strong>Configuration:</strong> Accounts can also be created from **Accounts** **->** **Basic** **->** **Chart of Accounts**.</li>
+        <li>Description: Select the tax account of the client. You can use the 'Generate Account' button to create an account for the client and assign it.</li>
+        <li>Configuration: Accounts can also be created from **Accounts** **->** **Basic** **->** **Chart of Accounts**.</li>
     </ul>
 
 ### Contact Details
 
-*Telephone:*
+*<strong>Telephone:</strong>*
     <ul>
         <li>Enter the telephone number of the client.</li>
     </ul>
 
-*Mobile No:*
+*<strong>Mobile No:</strong>*
     <ul>
         <li>Enter the mobile number of the client.</li>
     </ul>
 
-*Location:*
+*<strong>Location:</strong>*
     <ul>
         <li>Enter the location of the client.</li>
         <li>Locations can be created from **HR** **->** **Basic** **->** **Locations**.</li>
     </ul>
 
-*Address:*
+*<strong>Address:</strong>*
     <ul>
         <li>Enter the address of the client.</li>
     </ul>
 
-*Email:*
+*<strong>Email:</strong>*
     <ul>
         <li>Enter the email address of the client.</li>
     </ul>
 
-*Fax:*
+*<strong>Fax:</strong>*
     <ul>
         <li>Enter the fax number of the client.</li>
     </ul>
 
-*Po Box No:*
+*<strong>Po Box No:</strong>*
     <ul>
         <li>Enter the post box number of the client.</li>
     </ul>
