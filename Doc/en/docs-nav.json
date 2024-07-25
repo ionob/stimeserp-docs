@@ -86,11 +86,15 @@
           "items": [
             {
               "text": "Site Staff",
-              "path": "Doc/en/hr/basic-setup/Site-Staff.md"
+              "path": "hr/basic-setup/Site-Staff.md"
             },
             {
               "text": "Staff",
               "path": "hr/basic-setup/Staff.md"
+            },
+            {
+              "text":"Staff Category",
+              "path":"hr/basic-setup/Staff-category.md"
             }
           ]
         }
