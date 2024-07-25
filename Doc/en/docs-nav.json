@@ -110,7 +110,7 @@
             },
             {
               "text":"Clearance Elements",
-              "path":"hr/basic-Setup/Clearance-elements.md"
+              "path":"hr/basic-Setup/Clearence-elements.md"
             },
             {
               "text":"Country",
@@ -126,7 +126,7 @@
             },
             {
               "text":"Department Head",
-              "path":"hr/basic-Setup/department-Head.md"
+              "path":"hr/basic-Setup/department-head.md"
             },
             {
               "text":"Designation",
@@ -142,7 +142,7 @@
             },
             {
               "text":"Document Type",
-              "path":"hr/basic-Setup/Document-Type.md"
+              "path":"hr/basic-Setup/Document-type.md"
             },
             {
               "text":"Emirates",
@@ -150,7 +150,7 @@
             },
             {
               "text":"Holidays",
-              "path":"hr/basic-Setup/holidays.md"
+              "path":"hr/basic-Setup/Holidays.md"
             },
             {
               "text":"Holiday Type",
@@ -167,10 +167,6 @@
             {
               "text":"Leave Status Definition",
               "path":"hr/basic-Setup/Leave-status-definition.md"
-            },
-            {
-              "text":"Working Status Types",
-              "path":"hr/basic-Setup/Working-status-Types.md"
             },
             {
               "text":"Working Status Types",
