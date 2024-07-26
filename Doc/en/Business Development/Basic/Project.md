@@ -145,58 +145,48 @@ General configuration details of the project.
     <img src="../../images/other details.png" alt="other details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-### Site Supervisor
-
+<strong>Site Supervisor:</strong>
 Select the site supervisor from the company staff.
 
-### Normal Hours
-
+<strong>Normal Hours:</strong>
 Specify the expected normal hours for the project. Additional hours worked beyond this will be considered overtime if the overtime option is enabled.
 
-### Accommodation Type and Transportation
-
+<strong>Accommodation Type and Transportation:</strong>
 Select the accommodation type and transportation type for the project.
 
-### Allowable Absence
-
+<strong>Allowable Absence:</strong>
 Define the allowable absence for the project, used in supplier timecard and supplier invoice absent calculation.
 
-### Accommodation Emirates
-
+<strong>Accommodation Emirates:</strong>
 Specify the emirates where accommodation is arranged for the project.
 
-### Week Off Day
-
+<strong>Week Off Day:</strong>
 Select regular week off days for the project. Multiple week off days can be set.
 
-### Flat & Overtime
-
+<strong>Flat & Overtime:</strong>
 Define flat rates and overtime rates for the project. If overtime is enabled, NOT Rate will be applied for overtime worked.
 
-### Invoice Based on Attendance
-
+<strong>Invoice Based on Attendance:</strong>
 Enable this option if timesheets and invoices should be generated based on attendance. Hours updated in the attendance register will be used. If disabled, timesheets will be generated with the normal hours specified in the project.
 
-### Is Hourly Idle Project
-
+<strong>Is Hourly Idle Project:</strong>
 Manage idle employees. If payment is to be given for idle days, mobilize those employees into this project to generate timesheets, invoices, and payroll using this data.
 
-### Supplier Payment Settings
+<strong>Supplier Payment Settings:</strong>
 
 <div style="text-align:left;">
     <ul>
-        <li><strong>Food Allowance for FAT Site (Monthly):</strong> Calculate mess deduction in the supplier invoice.</li>
+        <li><strong>Food Allowance for FAT Site (Monthly):</strong> Calculate mess deduction in the supplier invoice.</li><br>
 
    >	<strong>Formula:</strong> **Mess Deduction** **=** **(Monthly Food Allowance / No of days in the month)** * **(No of days worked on FAT Site)**.
+
 <li><strong>Absent Deduction Per Day:</strong> Define custom absent deduction calculation for the project. If the number of absences exceeds the allowable absence, the amount will be deducted for each additional day.</li>
     </ul>
 </div>
 
-### Contact Person Details
-
+<strong>Contact Person Details:</strong>
 Enter the name, designation, contact number, and GPS coordinates (X and Y) of the contact person.
 
-### Related User
-
+<strong>Related User:</strong>
 Assign the Business Development Manager (BDM), Business Development Executive (BDE), Operation Supervisor, and Site Coordinator for the project with effective dates.
 
