@@ -4,7 +4,7 @@
 The Client Management module in our ERP system allows users to efficiently manage client information, track relevant details, and maintain organized records. This module is crucial for handling client data, including contact information, payment schedules, and document management.
 
 <div>
-    <img src="../../images/client dashboard.png" alt="client dashboard" style="border-radius: 10px; border: 0.5px solid #333;">
+    <img src="../../images/client dashboard.png" alt="client dashboard" style="border-radius: 10px; width: 70%; height: 70%;border: 0.5px solid #333;">
 </div>
 
 ### How to Create New Client
@@ -14,7 +14,7 @@ The Client Management module in our ERP system allows users to efficiently manag
 Click on New Client: To create a new client, navigate to the Client section and click on the 'New Client' button.
 
 <div>
-    <img src="../../images/new client.png" alt="new client" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/new client.png" alt="new client" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Client Details
@@ -94,7 +94,7 @@ Enter the fax number of the client.
 Enter the post box number of the client.
 
 <div>
-    <img src="../../images/new client two.png" alt="new client two" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/new client two.png" alt="new client two" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Reference
@@ -102,19 +102,19 @@ Enter the post box number of the client.
 Use this section to add references related to the client. Contact persons related to the client can be added here. Multiple reference details can be added.
 
 <div>
-    <img src="../../images/add new reference.png" alt="add new reference" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/add new reference.png" alt="add new reference" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Documents
 
 <div>
-    <img src="../../images/new client document.png" alt="new client document" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/new client document.png" alt="new client document" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 Documents related to the client can be added here. The expiry of these documents will be shown on the Dashboard.
 
 <div>
-    <img src="../../images/client in dashboard.png" alt="client in dashboard" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/client in dashboard.png" alt="client in dashboard" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### History
@@ -122,5 +122,5 @@ Documents related to the client can be added here. The expiry of these documents
 Record the history of the dates when the client was active.
 
 <div>
-    <img src="../../images/history in new client.png" alt="history in new client" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/history in new client.png" alt="history in new client" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
