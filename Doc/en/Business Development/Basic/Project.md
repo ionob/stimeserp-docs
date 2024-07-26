@@ -167,7 +167,7 @@ Manage idle employees. If payment is to be given for idle days, mobilize those e
     <ul>
         <li><strong>Food Allowance for FAT Site (Monthly):</strong> Calculate mess deduction in the supplier invoice.</li>
 
-   >	<strong>Formula:</strong> Mess Deduction = (Monthly Food Allowance / No of days in the month) * (No of days worked on FAT Site).
+   >	<strong>Formula:</strong> **Mess Deduction** **=** **(Monthly Food Allowance / No of days in the month)** * **(No of days worked on FAT Site)**.
 <li><strong>Absent Deduction Per Day:</strong> Define custom absent deduction calculation for the project. If the number of absences exceeds the allowable absence, the amount will be deducted for each additional day.</li>
     </ul>
 </div>
