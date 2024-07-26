@@ -93,9 +93,17 @@ Used to create projects for internal use management and to manage overhead expen
 
 Documents related to the project can be added here.
 
+<div>
+    <img src="../../images/document in project.png" alt="document in project" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+</div>
+
 ### Approved Rates
 
 Define rates for various designations under this project
+
+<div>
+    <img src="../../images/Approved rate.png" alt="Approved rate" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+</div>
 
 <div style="text-align:left;">
     <ul>
@@ -117,13 +125,25 @@ Define rates for various designations under this project
 
 Update national holidays and other public holidays related to the project.
 
+<div>
+    <img src="../../images/holiday details.png" alt="holiday details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+</div>
+
 ### Location Details
 
 Update project location details with geographical coordinates.
 
+<div>
+    <img src="../../images/location details.png" alt="location details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+</div>
+
 ### Other Details
 
 General configuration details of the project.
+
+<div>
+    <img src="../../images/other details.png" alt="other details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+</div>
 
 ### Site Supervisor
 

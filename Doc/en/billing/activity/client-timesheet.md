@@ -19,7 +19,7 @@ This documentation covers the process of managing timesheets within our system. 
 
 Client timesheets are automatically generated based on the activities and tasks logged for a specific client. These timesheets are linked with client projects and billing.
 
-<img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+<img src="../../images/client-timesheet.png" alt="Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 
 ### Creating a Client Timesheet
 The following fields are required to create a client timesheet:
@@ -31,7 +31,7 @@ The following fields are required to create a client timesheet:
     </ul>
 </div>
 <div>
-    <img src="../../images/timesheet details.png" alt="Timesheet Details" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/timesheet details.png" alt="Timesheet Details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 <div style="text-align:left;">
     <ul>
@@ -39,8 +39,8 @@ The following fields are required to create a client timesheet:
     </ul>
 </div>
 <div>
-    <img src="../../images/Project mobilisation.png" alt="Project Mobilisation" style="border-radius: 10px; display: inline-block; width: 50%; height: 50%; border: 0.5px solid #333;">
-    <img src="../../images/Designation.png" alt="Designation" style="border-radius: 10px; display: inline-block; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/Project mobilisation.png" alt="Project Mobilisation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%; border: 0.5px solid #333;">
+    <img src="../../images/Designation.png" alt="Designation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 <div style="text-align:left;">
     <ul>
@@ -50,7 +50,7 @@ The following fields are required to create a client timesheet:
     </ul>
 </div>
 <div>
-    <img src="../../images/date filter.png" alt="Date Filter" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/date filter.png" alt="Date Filter" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 <div style="text-align:left;">
     <ul>
@@ -80,7 +80,7 @@ The following fields are required to create a client timesheet:
     </ul>
 </div>
 <div>
-    <img src="../../images/status.png" alt="Status" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/status.png" alt="Status" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Generating and Viewing Timesheets
@@ -88,13 +88,13 @@ The following fields are required to create a client timesheet:
 After clicking "Generate," the timesheet will be created under the selected designation. If "Set Hours to 0" is checked, all dates will display the employee's hours as zero. The timesheet can be edited after it has been generated. Here’s an example of the Timesheet generation interface:
 
 <div>
-    <img src="../../images/view timesheet.png" alt="View Timesheet" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/view timesheet.png" alt="View Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Exporting Timesheets
 The system provides options to export timesheets as PDF or Excel. This feature is only available after selecting the employee(s) for the timesheet.
 <div>
-    <img src="../../images/export option.png" alt="Export Options" style="border-radius: 10px;  width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/export option.png" alt="Export Options" style="border-radius: 10px;  width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 <div style="text-align:left;">
@@ -117,7 +117,7 @@ The system provides options to export timesheets as PDF or Excel. This feature i
 You can change the official status using the "Is Official" edit button. When clicked, a popup will appear allowing you to select the status as Official, Raw, or Missing. After editing, you can update the status. If the client timesheet was initially generated as raw, you can update it to official once the data is correctly included.
 
 <div>
-    <img src="../../images/editing official status.png" alt="editing official status" style="border-radius: 10px;  width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/editing official status.png" alt="editing official status" style="border-radius: 10px;  width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 
@@ -126,7 +126,7 @@ You can change the official status using the "Is Official" edit button. When cli
 Manual client timesheets are created manually for instances where automated timesheets are not feasible. This could include ad-hoc tasks or special projects that require manual entry.
 
 <div>
-    <img src="../../images/manual client timesheet.png" alt="manual client timesheet" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/manual client timesheet.png" alt="manual client timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Creating a Client Timesheet
@@ -140,7 +140,7 @@ The following fields are required to create a client timesheet:
 </div>
 
 <div>
-    <img src="../../images/client in manual.png" alt="client in manual" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/client in manual.png" alt="client in manual" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 <div style="text-align:left;">
@@ -149,8 +149,8 @@ The following fields are required to create a client timesheet:
     </ul>
 </div>
 <div>
-    <img src="../../images/Project mobilisation.png" alt="Project Mobilisation" style="border-radius: 10px; display: inline-block; width: 50%; height: 50%; border: 0.5px solid #333;">
-    <img src="../../images/Designation.png" alt="Designation" style="border-radius: 10px; display: inline-block; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/Project mobilisation.png" alt="Project Mobilisation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%; border: 0.5px solid #333;">
+    <img src="../../images/Designation.png" alt="Designation" style="border-radius: 10px; display: inline-block; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 <div style="text-align:left;">
     <ul>
@@ -162,7 +162,7 @@ The following fields are required to create a client timesheet:
 </div>
 
 <div>
-    <img src="../../images/prepared by.png" alt="prepared by" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/prepared by.png" alt="prepared by" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 <div style="text-align:left;">
@@ -172,7 +172,7 @@ The following fields are required to create a client timesheet:
 </div>
 
 <div>
-    <img src="../../images/checked by.png" alt="Checked by" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/checked by.png" alt="Checked by" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 >	You can add checked-by users through **HR** → **Basic** → **Staff** .Adding a staff member will not automatically show them as a checked-by user. To make a staff member available as a checked-by user, create a user in **Administration** → **Activity** → **User** and select the previously added staff member.
@@ -195,10 +195,10 @@ The following fields are required to create a client timesheet:
 After entering the necessary details in the manual client timesheet, click the "Load Employee Details" button. This will take you to the timesheet where you can select the employees and add the hours they worked.
 
 <div>
-    <img src="../../images/load employee data.png" alt="load employee data" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/load employee data.png" alt="load employee data" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 <div>
-    <img src="../../images/Entering Employee Details.png" alt="Entering Employee Details" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/Entering Employee Details.png" alt="Entering Employee Details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 #### Uploading Client Timesheet
@@ -206,7 +206,7 @@ After entering the necessary details in the manual client timesheet, click the "
 In the manual client timesheet, you can download the template for the header format needed for the employee timesheet by clicking the "Download Template" button. You can then upload the client timesheet using the "Choose File" button to import all the data.
 
 <div>
-    <img src="../../images/Uploading Client Timesheet.png" alt="Uploading Client Timesheet" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/Uploading Client Timesheet.png" alt="Uploading Client Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 #### Finalizing and Saving the Timesheet
@@ -214,7 +214,7 @@ In the manual client timesheet, you can download the template for the header for
 Enable the "Is Final" button in the timesheet and click save. If the timesheet is generated as official, it will show in the client invoice section.
 
 <div>
-    <img src="../../images/Finalizing and Saving the Timesheet.png" alt="Finalizing and Saving the Timesheet" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/Finalizing and Saving the Timesheet.png" alt="Finalizing and Saving the Timesheet" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Related Topics
