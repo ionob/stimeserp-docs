@@ -191,6 +191,20 @@
             {
               "text": "Project",
               "path": "Business Development/Basic/Project.md"
+            },
+            {
+              "text": "Rate Contract Template",
+              "path": "Business Development/Basic/Rate Contract Template.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "Business Development/Activity",
+          "items": [
+            {
+              "text": "Sales Demand Requests",
+              "path": "Business Development/Activity/Sales Demand Requests.md"
             }
           ]
         }
