@@ -45,7 +45,7 @@ Used to connect the client with a CRM customer.
    >	Customers can be added from **CRM** **->** **Basic** **->** **Customer**.
 
 <strong>Currency:</strong>
-elect the currency of the client. The default currency under the client's country will be shown.<
+Select the currency of the client. The default currency under the client's country will be shown.
 
 <strong>Payment Schedule:</strong>
 Specify the payment schedule of the client, indicating the expected payment date range (e.g., 30 days, 90 days, etc.).
@@ -64,7 +64,7 @@ TRN stands for Tax Registration Number under laws.
 Enter the website details of the client.
 
 <strong>Account:</strong>
-Select the tax account of the client. You can use the 'Generate Account' button to create an account for the client and assign it.</li>
+Select the tax account of the client. You can use the 'Generate Account' button to create an account for the client and assign it.
 
    >	Accounts can also be created from **Accounts** **->** **Basic** **->** **Chart of Accounts**.
 
