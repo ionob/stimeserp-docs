@@ -211,6 +211,24 @@
               "path": "Business Development/Activity/Sales Demobilization.md"
             }
           ]
+        },
+        {
+          "text": "Report",
+          "path": "Business Development/Report",
+          "items": [
+            {
+              "text": "Client Report",
+              "path": "Business Development/Report/Client Report.md"
+            },
+            {
+              "text": "Project Report",
+              "path": "Business Development/Report/Project Report.md"
+            },
+            {
+              "text": "Idle Employee Report",
+              "path": "Business Development/Report/Idle Employee Report.md"
+            }
+          ]
         }
       ]
     },
