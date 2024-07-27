@@ -14,7 +14,7 @@ The Sales Demand Request module is used to create demand requests for manpower f
 <div style="text-align:left;">
     <ul>
         <li><strong>Navigate to Sales Demand Request:</strong> Access the Sales Demand Request section in the ERP system.</li>
-        <li><strong>Click on New Sales Demand Request:</strong> To create a new request, click on the 'Create Request' button.</li>
+        <li><strong>Click on Create Request:</strong> To create a new request, click on the 'Create Request' button.</li>
     </ul>
 </div>
 
