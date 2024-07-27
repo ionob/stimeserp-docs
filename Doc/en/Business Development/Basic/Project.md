@@ -50,7 +50,6 @@ Specify the expected payment date of the project (e.g., 30 days, 90 days).
 Select the client under which the project is created.
 
    >	Clients can be added from **Business Development** **->** **Basic** **->** **Client**.
-* [How to Create a Client ?](../Client.md)
 
 <strong>LPO No:</strong>
 Enter the Local Purchase Order Number. This will be shown in the client invoice print.
