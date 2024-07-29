@@ -10,7 +10,7 @@ The NOC Report Type is essential for creating standardized and customized remark
 
    >	**Operation** **->** **Activity** **->** **No Objection Letter**
 
-   Ex: %%CLIENTNAME%  - will be replaced with actual name of client selected in No Objection letter. 
+   Ex: %%CLIENTNAME%%  - will be replaced with actual name of client selected in No Objection letter. 
 
 <div>
     <img src="../../images/Noc Report Type.png" alt="Noc Report Type" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">

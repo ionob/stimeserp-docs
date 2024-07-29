@@ -255,8 +255,8 @@
           "path": "Operation/activity/",
           "items": [
             {
-              "text": "Client TimeSheet",
-              "path": "billing/activity/"
+              "text": "Operations Demand Request",
+              "path": "Operation/Activity/Operations Demand Request.md"
             }
           ]
         }
