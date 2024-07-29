@@ -238,15 +238,15 @@
       "items": [
         {
           "text": "Basic",
-          "path": "Operation/basic/",
+          "path": "Operation/Basic/",
           "items": [
             {
               "text": "Demobilization Reason",
-              "path": "Operation/basic/Demobilization Reason.md"
+              "path": "Operation/Basic/Demobilization Reason.md"
             },
             {
               "text": "NOC Report Type",
-              "path": "Operation/basic/NOC Report Type.md"
+              "path": "Operation/Basic/NOC Report Type.md"
             }
           ]
         },
@@ -256,7 +256,7 @@
           "items": [
             {
               "text": "Client TimeSheet",
-              "path": "billing/activity/client-timesheet.md"
+              "path": "billing/activity/"
             }
           ]
         }
