@@ -233,6 +233,36 @@
       ]
     },
     {
+      "text": "Operation",
+      "path": "Operation/Operation.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "Operation/basic/",
+          "items": [
+            {
+              "text": "Demobilization Reason",
+              "path": "Operation/basic/Demobilization Reason.md"
+            },
+            {
+              "text": "NOC Report Type",
+              "path": "Operation/basic/NOC Report Type.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "Operation/activity/",
+          "items": [
+            {
+              "text": "Client TimeSheet",
+              "path": "billing/activity/client-timesheet.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "text": "Billing",
       "path": "billing/billing.md",
       "items": [
