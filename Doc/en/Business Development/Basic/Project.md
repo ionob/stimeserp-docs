@@ -126,7 +126,7 @@ Define rates for various designations under this project
 Update national holidays and other public holidays related to the project.
 
 <div>
-    <img src="../../images/holiday details.png" alt="holiday details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+    <img src="../../images/holiday dates.png" alt="holiday details" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Location Details
