@@ -74,6 +74,10 @@ Employees will be categorized into three tabs
 
 ### Employee Fields
 
+<div>
+    <img src="../../images/fields in demand request allocation of employee.png" alt="fields in demand request allocation of employee" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+</div>
+
 <strong>User ID:</strong>
 Employee ID from the employee master (Staff/Site Staff/Supplier Labour).
 
@@ -93,12 +97,22 @@ Nationality of the employee.
 Current trade of the employee as specified in Job Details of Employee master.
 
 <strong>Trade Change:</strong>
-Select the trade for which the employee is being allocated. Only trades mentioned in the demand request can be selected.
+Select the trade in which the employee is allocated, the same trade will be used for mobilization. (Painter can be mobilized as Accountant). Only trade mentioned in demand request can be selected. 
+
+<div>
+    <img src="../../images/trade change.png" alt="trade change" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+</div>
 
 <strong>Project Rate:</strong>
 Select the rate type and rate for the employee's allocation 
 
    >	data is shown from the approved rates in the project master under **Business Development** **->** **Basic** **->** **Project** **->** **Approved Rates**.
+
+<div>
+    <img src="../../images/Project rate.png" alt="Project rate" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+</div>
+
+**Check related topic for creating project rate**
 
 <strong>Camp:</strong>
 Current camp of the employee.
@@ -116,12 +130,37 @@ The rate given in the project master for the designation mentioned in Trade Chan
 
    >	The latest rate will be shown **Business Development** **->** **Basic** **->** **Project** **->** **Approved Rates**.
 
+<div>
+    <img src="../../images/sale rate.png" alt="sale rate" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+</div>
+
 <strong>Purchase Rate:</strong>
 The rate given for the employee on the date of allocation for the trade mentioned in Trade Change.
 
-<div>
-    <img src="../../images/fields in demand request allocation of employee.png" alt="fields in demand request allocation of employee" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
-</div>
+### Rate Considerations
+
+<strong>Own Staff/Site Staff:</strong>
+Purchase rate is taken from the designation master. If a known trade is given for the designation, that rate will be shown.
+
+<strong>Supplier Labour:</strong>
+Purchase rate is taken from the Supplier or Supplier Labour master based on settings 
+
+   >	**Procurement** **->** **Settings** **->** **Use Rate in Supplier Labour as purchase rate is enabled, otherwise from supplier master**.
+
+<strong>Project Rate:</strong>
+If project rate is selected in demand request allocation, the rate with the specified rate type will be shown.
+
+<strong>Employee Rate Type:</strong>
+If any rate type is given for an employee in the Supplier Labour master 
+
+   >	**Job Details** **->** **Rate Type**, only the rate with that rate type will be considered.
+
+<strong>Demand Request Rate:</strong>
+If the employee has a rate for the designation and project mentioned in the demand request, it will be shown. If not, the latest rate with the effective date for this trade will be shown.
+
+<strong>Rate Input:</strong>
+
+   >	If Purchase rate is taken from Supplier Labour, a new rate can be added from demand request allocation **Enable Operation** **->** **Settings** **->** **Enable Rate Input in Demand Request**.
 
 ### Related Topics
 
