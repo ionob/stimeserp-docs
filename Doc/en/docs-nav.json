@@ -257,6 +257,10 @@
             {
               "text": "Operations Demand Request",
               "path": "Operation/Activity/Operations Demand Request.md"
+            },
+            {
+              "text": "Demand Request Allocation",
+              "path": "Operation/Activity/Demand Request Allocation.md"
             }
           ]
         }
