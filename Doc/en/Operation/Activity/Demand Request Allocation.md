@@ -75,7 +75,7 @@ Employees will be categorized into three tabs
 ### Employee Fields
 
 <div>
-    <img src="../../images/fields in demand request allocation of employee.png" alt="fields in demand request allocation of employee" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/fields in demand request allocation of employee.png" alt="fields in demand request allocation of employee" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 <strong>User ID:</strong>
@@ -100,7 +100,7 @@ Current trade of the employee as specified in Job Details of Employee master.
 Select the trade in which the employee is allocated, the same trade will be used for mobilization. (Painter can be mobilized as Accountant). Only trade mentioned in demand request can be selected. 
 
 <div>
-    <img src="../../images/trade change.png" alt="trade change" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/trade change.png" alt="trade change" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 <strong>Project Rate:</strong>
@@ -109,7 +109,7 @@ Select the rate type and rate for the employee's allocation
    >	data is shown from the approved rates in the project master under **Business Development** **->** **Basic** **->** **Project** **->** **Approved Rates**.
 
 <div>
-    <img src="../../images/Project rate.png" alt="Project rate" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/Project rate.png" alt="Project rate" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 **Check related topic for creating project rate**
@@ -131,7 +131,7 @@ The rate given in the project master for the designation mentioned in Trade Chan
    >	The latest rate will be shown **Business Development** **->** **Basic** **->** **Project** **->** **Approved Rates**.
 
 <div>
-    <img src="../../images/sale rate.png" alt="sale rate" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+    <img src="../../images/sale rate.png" alt="sale rate" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 <strong>Purchase Rate:</strong>
