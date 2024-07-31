@@ -148,7 +148,7 @@ The rate given for the employee on the date of allocation for the trade mentione
 <strong>Own Staff/Site Staff:</strong>
 Purchase rate is taken from the designation master. If a known trade is given for the designation, that rate will be shown.
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px;" style="border-radius: 10px; border: 0.5px solid #333;">
   <img src="../../images/salary seeting using designation.png" style="width: 100%; ">
   <img src="../../images/known trading adding for specific employee.png" style="width: 100%; ">
 </div>
@@ -190,7 +190,7 @@ Purchase rate is taken from the Supplier or Supplier Labour master based on sett
 
 <br>
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px;" style="border-radius: 10px; border: 0.5px solid #333;">
   <img src="../../images/rate update in demand request allocation.png" style="width: 100%; ">
   <img src="../../images/rate update  new rate.png" style="width: 100%; ">
 </div>
@@ -205,7 +205,7 @@ Purchase rate is taken from the Supplier or Supplier Labour master based on sett
 
 <br>
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px;" style="border-radius: 10px; border: 0.5px solid #333;">
   <img src="../../images/rate update request.png" style="width: 100%; ">
   <img src="../../images/rate update request form.png" style="width: 100%; ">
 </div>
