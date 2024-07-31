@@ -4,7 +4,7 @@
 The Demand Request Allocation feature is designed to facilitate the allocation of employees to fulfill demand requests. This module allows users to efficiently assign employees based on their current status, trade, and other relevant criteria to meet the requirements of various projects.
 
 <div>
-    <img src="../../images/Demand Request List.png" alt="Demand Request List" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+    <img clss="popup-image" src="../../images/Demand Request List.png" alt="Demand Request List" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Accessing Demand Request Allocation
@@ -58,6 +58,8 @@ Employees will be categorized into three tabs
 <div>
     <img src="../../images/known trade.png" alt="known trade" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
 </div>
+
+**Check related topic for How to add known trade for Site Staff**
 
 <div style="text-align:center;">
     <table>
@@ -125,6 +127,10 @@ Supplier name if the employee is supplier labour.
 
    >	**Accommodation** **->** **Settings** **->** **Enable**: “Show CheckIn employees in Camp Allocation Queue”.
 
+<div>
+    <img src="../../images/Check-In Issued Date enabling.png" alt="Check-In Issued Date enabling" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+</div>
+
 <strong>Sale Rate:</strong>
 The rate given in the project master for the designation mentioned in Trade Change. 
 
@@ -134,10 +140,10 @@ The rate given in the project master for the designation mentioned in Trade Chan
     <img src="../../images/sale rate.png" alt="sale rate" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-<strong>Purchase Rate:</strong>
+### Purchase Rate
 The rate given for the employee on the date of allocation for the trade mentioned in Trade Change.
 
-### Rate Considerations
+ #### ***Rate Considerations***
 
 <strong>Own Staff/Site Staff:</strong>
 Purchase rate is taken from the designation master. If a known trade is given for the designation, that rate will be shown.
@@ -152,21 +158,78 @@ Purchase rate is taken from the Supplier or Supplier Labour master based on sett
 
    >	**Procurement** **->** **Settings** **->** **Use Rate in Supplier Labour as purchase rate is enabled, otherwise from supplier master**.
 
-<strong>Project Rate:</strong>
-If project rate is selected in demand request allocation, the rate with the specified rate type will be shown.
+<div>
+    <img src="../../images/use rate in supplier labour as purchase rate.png" alt="use rate in supplier labour as purchase rate" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+</div>
 
-<strong>Employee Rate Type:</strong>
-If any rate type is given for an employee in the Supplier Labour master 
-
-   >	**Job Details** **->** **Rate Type**, only the rate with that rate type will be considered.
-
-<strong>Demand Request Rate:</strong>
-If the employee has a rate for the designation and project mentioned in the demand request, it will be shown. If not, the latest rate with the effective date for this trade will be shown.
+<div style="text-align:left;">
+    <ul>
+        <li>If project rate is selected in demand request allocation, the rate with the specified rate type will be shown.</li>
+        <li>If the any rate type is given for employee in supplier labour master (Job Details -> Rate type) then only the rate with that rate type will be considered. </li>
+        <li>If the employee has a rate for the designation and project mentioned in the demand request, it will be shown.</li>
+        <li>If not, the latest rate with the effective date for this trade will be shown.</li>
+    </ul>
+</div>
 
 <strong>Rate Input:</strong>
 
    >	If Purchase rate is taken from Supplier Labour, a new rate can be added from demand request allocation **Enable Operation** **->** **Settings** **->** **Enable Rate Input in Demand Request**.
 
+<div>
+    <img src="../../images/enable rate input in demand request.png" alt="enable rate input in demand request" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+</div>
+
+<br>
+
+<div style="text-align:left;">
+    <ul>
+        <li>Once the settings is enabled then select any supplier labour and change their purchase rate and click allocate. </li>
+        <li>Then a rate update request form will be shown.  </li>
+    </ul>
+</div>
+
+<br>
+
+<div style="display: flex; gap: 10px;">
+  <img src="../../images/rate update in demand request allocation.png" style="width: 100%; ">
+  <img src="../../images/rate update  new rate.png" style="width: 100%; ">
+</div>
+
+<br>
+
+<div style="text-align:left;">
+    <ul>
+        <li>Supplier labour who has new rate there will new rate label and if new rate is not given then it will show existing. </li>
+    </ul>
+</div>
+
+<br>
+
+<div style="display: flex; gap: 10px;">
+  <img src="../../images/rate update request.png" style="width: 100%; ">
+  <img src="../../images/rate update request form.png" style="width: 100%; ">
+</div>
+
+<br>
+
+<div style="text-align:left;">
+    <ul>
+        <li>Click on approve and save then new rate will be updated in supplier labour master. (Only employees with new rate will have rate update in supplier labor master). </li>
+        <li>If workflow is define then there will be an approval form for request. </li>
+    </ul>
+</div>
+
+<br>
+
+<div>
+    <img src="../../images/new added supplier labour rate.png" alt="new added supplier labour rate" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
+</div>
+
+<br>
+
+Once the allocation is done then click on fully allocated checkbox and save the request to create noc. 
+
 ### Related Topics
 
 * [How to Setup Approved Rate ?](../../Business%20Development/Basic/Project.md)
+* [How to add known trade for staff ?](../../hr/basic-Setup/Site-Staff.md)
