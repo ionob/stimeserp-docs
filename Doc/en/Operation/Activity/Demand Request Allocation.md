@@ -114,7 +114,7 @@ Select the rate type and rate for the employee's allocation
     <img src="../../images/Project rate.png" alt="Project rate" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-**Check related topic for creating project rate**
+**Check [Related Topics](###Related-Topics) for creating project rate** 
 
 <strong>Camp:</strong>
 Current camp of the employee.
