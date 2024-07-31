@@ -59,7 +59,7 @@ Employees will be categorized into three tabs
     <img src="../../images/known trade.png" alt="known trade" style="border-radius: 10px; width: 50%; height: 50%; border: 0.5px solid #333;">
 </div>
 
-**Check related topic for How to add known trade for Site Staff**
+**Check [Related Topics](#Related-Topics) for How to add known trade for Site Staff**
 
 <div style="text-align:center;">
     <table>
@@ -114,7 +114,7 @@ Select the rate type and rate for the employee's allocation
     <img src="../../images/Project rate.png" alt="Project rate" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-**Check [Related Topics](###Related-Topics) for creating project rate** 
+**Check [Related Topics](#Related-Topics) for creating project rate** 
 
 <strong>Camp:</strong>
 Current camp of the employee.
