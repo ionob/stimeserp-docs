@@ -190,9 +190,9 @@ Purchase rate is taken from the Supplier or Supplier Labour master based on sett
 
 <br>
 
-<div style="display: flex; gap: 10px; border-radius: 10px; border: 0.5px solid #333;" >
-  <img src="../../images/rate update in demand request allocation.png" style="width: 100%; ">
-  <img src="../../images/rate update  new rate.png" style="width: 100%; ">
+<div style="display: flex; gap: 10px;">
+  <img src="../../images/rate update in demand request allocation.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
+  <img src="../../images/rate update  new rate.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
 <br>
@@ -205,9 +205,9 @@ Purchase rate is taken from the Supplier or Supplier Labour master based on sett
 
 <br>
 
-<div style="display: flex; gap: 10px;" style="border-radius: 10px; border: 0.5px solid #333;">
-  <img src="../../images/rate update request.png" style="width: 100%; ">
-  <img src="../../images/rate update request form.png" style="width: 100%; ">
+<div style="display: flex; gap: 10px;">
+  <img src="../../images/rate update request.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
+  <img src="../../images/rate update request form.png" style="width: 100%; border-radius: 10px; border: 0.5px solid #333;">
 </div>
 
 <br>
