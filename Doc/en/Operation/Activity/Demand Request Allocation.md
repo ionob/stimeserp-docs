@@ -4,7 +4,7 @@
 The Demand Request Allocation feature is designed to facilitate the allocation of employees to fulfill demand requests. This module allows users to efficiently assign employees based on their current status, trade, and other relevant criteria to meet the requirements of various projects.
 
 <div>
-    <img clss="popup-image" src="../../images/Demand Request List.png" alt="Demand Request List" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
+    <img src="../../images/Demand Request List.png" alt="Demand Request List" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
 ### Accessing Demand Request Allocation
