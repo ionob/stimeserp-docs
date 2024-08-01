@@ -281,6 +281,10 @@
             {
               "text": "Operation Demobilization",
               "path": "Operation/Activity/Operations Demobilization Request.md"
+            },
+            {
+              "text": "Demobilization",
+              "path": "Operation/Activity/Demobilization.md"
             }
           ]
         }
