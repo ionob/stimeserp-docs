@@ -265,6 +265,10 @@
             {
               "text": "No Objection Letter",
               "path": "Operation/Activity/NOC List.md"
+            },
+            {
+              "text": "Site Mobilization Status",
+              "path": "Operation/Activity/Site Mobilization Status.md"
             }
           ]
         }
