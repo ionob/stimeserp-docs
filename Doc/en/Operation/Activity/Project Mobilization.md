@@ -56,7 +56,14 @@ Once an employee is selected for mobilization, the following basic details are s
         <li><strong>Actual Trade:</strong> The current trade of the employee.</li>
         <li><strong>Trade Change As:</strong> Select the trade in which the employee should be mobilized.</li>
         <li><strong>Client Employee ID:</strong> The ID given by the client for the mobilized employee (if the client maintains their own record number for the employee).</li>
-        <li><strong>Rate Type:</strong> All the rates specified in the project master for the mobilized trade (Trade Change As) will be shown here. This rate is used to generate the client invoice for this mobilization. If the setting “Generate Supplier Timecard based on Rate Type in Project Mobilization” is enabled, the rate with this rate type will be used for the supplier timecard.</li>
+        <li><strong>Rate Type:</strong> All the rates specified in the project master for the mobilized trade (Trade Change As) will be shown here. This rate is used to generate the client invoice for this mobilization.</li>
+    </ul>
+</div>
+
+   >	If the setting “Generate Supplier Timecard based on Rate Type in Project Mobilization” is enabled, the rate with this rate type will be used for the supplier timecard.
+
+<div style="text-align:left;">
+    <ul>
         <li><strong>Location:</strong> The location of the mobilized project can be selected from here.</li>
         <li><strong>Shift:</strong> The shift under which the employee is mobilized.</li>
         <li><strong>Mobilization Date:</strong> The date on which the employee is mobilized to the site.</li>
