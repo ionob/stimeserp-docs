@@ -33,7 +33,7 @@ The Site Mobilization Status module in our ERP system is designed to update and 
     </ul>
 </div>
 
-<br>
+
 
 ### Steps to Update Site Mobilization Status
 
@@ -43,13 +43,10 @@ The Site Mobilization Status module in our ERP system is designed to update and 
     </ul>
 </div>
 
-<br>
-
 <div>
     <img src="../../images/mobilization status editing.png" alt="mobilization status editing" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-<br>
 
 <div style="text-align:left;">
     <ul>
@@ -57,13 +54,10 @@ The Site Mobilization Status module in our ERP system is designed to update and 
     </ul>
 </div>
 
-<br>
-
 <div>
     <img src="../../images/employee mobilization STATUS employee select.png" alt="employee mobilization STATUS employee select" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-<br>
 
 <div style="text-align:left;">
     <ul>
@@ -72,13 +66,10 @@ The Site Mobilization Status module in our ERP system is designed to update and 
     </ul>
 </div>
 
-<br>
-
 <div>
     <img src="../../images/safety trade status.png" alt="safety trade status" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-<br>
 
 <div style="text-align:left;">
     <ul>
@@ -86,13 +77,10 @@ The Site Mobilization Status module in our ERP system is designed to update and 
     </ul>
 </div>
 
-<br>
-
 <div>
     <img src="../../images/training request.png" alt="training request" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-<br>
 
 <div style="text-align:left;">
     <ul>
@@ -100,21 +88,16 @@ The Site Mobilization Status module in our ERP system is designed to update and 
     </ul>
 </div>
 
-<br>
-
 <div>
     <img src="../../images/reason for mobilization fail.png" alt="reason for mobilization fail" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
 </div>
 
-<br>
 
 <div style="text-align:left;">
     <ul>
         <li><strong>Save the Site Mobilization Status:</strong> After updating the necessary fields, save the changes to ensure the status is accurately recorded.</li>
     </ul>
 </div>
-
-<br>
 
 <div>
     <img src="../../images/update button.png" alt="update button" style="border-radius: 10px; width: 70%; height: 70%; border: 0.5px solid #333;">
