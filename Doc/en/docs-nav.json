@@ -293,6 +293,10 @@
             {
               "text": "Employee Transfer",
               "path": "Operation/Activity/Employee Transfer.md"
+            },
+            {
+              "text": "Employee Wise Mobilization",
+              "path": "Operation/Activity/Employee Wise Mobilization.md"
             }
           ]
         }
