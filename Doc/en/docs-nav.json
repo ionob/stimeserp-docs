@@ -271,8 +271,12 @@
               "path": "Operation/Activity/Site Mobilization Status.md"
             },
             {
-              "text": "NOC MObilization",
+              "text": "NOC Mobilization",
               "path": "Operation/Activity/NOC Mobilization.md"
+            },
+            {
+              "text": "Site Demobilization Request",
+              "path": "Operation/Activity/Site Demobilization Request.md"
             }
           ]
         }
