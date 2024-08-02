@@ -297,6 +297,10 @@
             {
               "text": "Employee Wise Mobilization",
               "path": "Operation/Activity/Employee Wise Mobilization.md"
+            },
+            {
+              "text": "Project Transfer",
+              "path": "Operation/Activity/Project Transfer.md"
             }
           ]
         }
