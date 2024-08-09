@@ -351,6 +351,36 @@
           ]
         }
       ]
+    },
+    {
+      "text": "Payroll",
+      "path": "Payroll/Payroll.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "Payroll/Basic/",
+          "items": [
+            {
+              "text": "Salary Components",
+              "path": "Payroll/basic/Salary Components.md"
+            },
+            {
+              "text": "Salary Structures",
+              "path": "Payroll/basic/Salary Structures.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "Payroll/Activity/",
+          "items": [
+            {
+              "text": "Supplier Time Card",
+              "path": "Payroll/Activity/Supplier Time Card.md"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
