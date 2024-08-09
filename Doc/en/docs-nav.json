@@ -362,11 +362,11 @@
           "items": [
             {
               "text": "Salary Components",
-              "path": "Payroll/basic/Salary Components.md"
+              "path": "Payroll/Basic/Salary Components.md"
             },
             {
               "text": "Salary Structures",
-              "path": "Payroll/basic/Salary Structures.md"
+              "path": "Payroll/Basic/Salary Structures.md"
             }
           ]
         },
