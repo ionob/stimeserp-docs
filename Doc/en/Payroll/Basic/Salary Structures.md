@@ -8,7 +8,7 @@ The Salary Structure module in our ERP system allows users to define the structu
     <img src="../../images/Salary Structures.png" alt="Salary Structures" style="border-radius: 10px; width: 70%; height: 70%;border: 0.5px solid #333;">
 </div>
 
-### How to Creating a Salary Component
+### How to Creating a Salary Structure
 
 >	Go to **Payroll** **→** **Basic** **→** **Salary Structures**.
 
