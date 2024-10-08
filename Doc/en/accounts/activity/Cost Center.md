@@ -5,7 +5,7 @@
 In a manpower supply company, a Cost Center is a way to organize and track the expenses related to different projects, teams, or departments. For example, you can create a cost center for each project site or for specific departments like "Recruitment" or "Training." It helps you know where your money is being spent, making it easier to manage costs.
 
 <div>
-    <img src="../../images/salary components.png" alt="salary components" style="border-radius: 10px; width: 70%; height: 70%;border: 0.5px solid #333;">
+    <img src="../../images\cost center list.png" alt="salary components" style="border-radius: 10px; width: 70%; height: 70%;border: 0.5px solid #333;">
 </div>
 
 ## How to Add or Edit a Cost Center
@@ -23,9 +23,17 @@ In a manpower supply company, a Cost Center is a way to organize and track the e
     </ul>
 </div>
 
+<div>
+    <img src="../../images/new account cost center.png" alt="salary components" style="border-radius: 10px; width: 70%; height: 70%;border: 0.5px solid #333;">
+</div>
+
 ## Example Scenario:
 
 Let’s say your company is supplying workers for two different projects: "Project A" and "Project B". You can create a cost center for each project to keep track of how much each project is costing you, like the salaries of workers sent to these sites or the equipment they’re using.
+
+<div>
+    <img src="../../images/NEW ADDED COST CENTER.png" alt="salary components" style="border-radius: 10px; width: 70%; height: 70%;border: 0.5px solid #333;">
+</div>
 
 ## Important Things to Know:
 
