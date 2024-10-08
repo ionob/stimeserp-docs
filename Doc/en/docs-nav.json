@@ -353,6 +353,52 @@
       ]
     },
     {
+      "text": "Accounts",
+      "path": "accounts/accounts.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "accounts/basic/",
+          "items": [
+            {
+              "text": "Cost Center",
+              "path": "accounts/basic/Cost Center.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "accounts/activity/",
+          "items": [
+            {
+              "text": "Cost Center",
+              "path": "accounts/activity/Cost Center.md"
+            }
+          ]
+        },
+        {
+          "text": "Reports",
+          "path": "accounts/reports/",
+          "items": [
+            {
+              "text": "Trial Balance",
+              "path": "accounts/reports/Trial Balance.md"
+            }
+          ]
+        },
+        {
+          "text": "Settings",
+          "path": "accounts/settings/",
+          "items": [
+            {
+              "text": "Account Settings",
+              "path": "accounts/settings/Account Settings.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "text": "Payroll",
       "path": "Payroll/Payroll.md",
       "items": [
