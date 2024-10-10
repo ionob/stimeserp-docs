@@ -379,6 +379,10 @@
             {
               "text": "Opening Invoice",
               "path": "accounts/basic/Opening Invoice.md"
+            },
+            {
+              "text": "Nature of Expenses",
+              "path": "accounts/basic/Nature of Expenses.md"
             }
           ]
         },
