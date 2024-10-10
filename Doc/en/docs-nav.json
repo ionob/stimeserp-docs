@@ -353,6 +353,36 @@
       ]
     },
     {
+      "text": "Payroll",
+      "path": "Payroll/Basic/Salary Components.md",
+      "items": [
+        {
+          "text": "Basic",
+          "path": "Payroll/Basic/Salary Components.md",
+          "items": [
+            {
+              "text": "Salary Components",
+              "path": "Payroll/Basic/Salary Components.md"
+            },
+            {
+              "text": "Salary Structures",
+              "path": "Payroll/Basic/Salary Structures.md"
+            }
+          ]
+        },
+        {
+          "text": "Activity",
+          "path": "Payroll/Activity/Supplier Time Card.md",
+          "items": [
+            {
+              "text": "Supplier Time Card",
+              "path": "Payroll/Activity/Supplier Time Card.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "text": "Accounts",
       "path": "accounts/basic/Cost Center.md",
       "items": [
@@ -413,36 +443,6 @@
             {
               "text": "Account Settings",
               "path": "accounts/settings/Account Settings.md"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "text": "Payroll",
-      "path": "Payroll/Basic/Salary Components.md",
-      "items": [
-        {
-          "text": "Basic",
-          "path": "Payroll/Basic/Salary Components.md",
-          "items": [
-            {
-              "text": "Salary Components",
-              "path": "Payroll/Basic/Salary Components.md"
-            },
-            {
-              "text": "Salary Structures",
-              "path": "Payroll/Basic/Salary Structures.md"
-            }
-          ]
-        },
-        {
-          "text": "Activity",
-          "path": "Payroll/Activity/Supplier Time Card.md",
-          "items": [
-            {
-              "text": "Supplier Time Card",
-              "path": "Payroll/Activity/Supplier Time Card.md"
             }
           ]
         }
