@@ -371,6 +371,10 @@
             {
               "text": "Documents",
               "path": "accounts/basic/Documents.md"
+            },
+            {
+              "text": "Opening Balance",
+              "path": "accounts/basic/Opening Balance.md"
             }
           ]
         },
