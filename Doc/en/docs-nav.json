@@ -388,11 +388,11 @@
         },
         {
           "text": "Activity",
-          "path": "accounts/activity/Cost Center.md",
+          "path": "accounts/activity/Journal Entry.md",
           "items": [
             {
-              "text": "Cost Center",
-              "path": "accounts/activity/Cost Center.md"
+              "text": "Journal Entry",
+              "path": "accounts/activity/Journal Entry.md"
             }
           ]
         },
