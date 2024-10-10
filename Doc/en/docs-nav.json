@@ -14,7 +14,7 @@
       "items": [
         {
           "text": "Basic Setup",
-          "path": "administration/basic-setup",
+          "path": "administration/basic-setup/company.md",
           "items":[
             {
               "text":"Company",
@@ -62,7 +62,7 @@
         },
         {
           "text": "Report",
-          "path": "administration/report.md",
+          "path": "administration/report/activity-report.md",
           "items": [
             {
               "text": "Activity Report",
@@ -82,7 +82,7 @@
       "items": [
         {
           "text": "Basic Setup",
-          "path": "hr/basic-Setup/",
+          "path": "hr/basic-Setup/Site-Staff.md",
           "items": [
             {
               "text": "Site Staff",
@@ -178,11 +178,11 @@
     },
     {
       "text": "Business Development",
-      "path": "Business Development",
+      "path": "Business Development/Basic/Client.md",
       "items": [
         {
           "text": "Basic",
-          "path": "Business Development/Basic",
+          "path": "Business Development/Basic/Client.md",
           "items": [
             {
               "text": "Client",
@@ -200,7 +200,7 @@
         },
         {
           "text": "Activity",
-          "path": "Business Development/Activity",
+          "path": "Business Development/Activity/Sales Demand Requests.md",
           "items": [
             {
               "text": "Sales Demand Requests",
@@ -214,7 +214,7 @@
         },
         {
           "text": "Report",
-          "path": "Business Development/Report",
+          "path": "Business Development/Report/Client Report.md",
           "items": [
             {
               "text": "Client Report",
@@ -234,11 +234,11 @@
     },
     {
       "text": "Operation",
-      "path": "Operation/Operation.md",
+      "path": "Operation/Basic/Demobilization Reason.md",
       "items": [
         {
           "text": "Basic",
-          "path": "Operation/Basic/",
+          "path": "Operation/Basic/Demobilization Reason.md",
           "items": [
             {
               "text": "Demobilization Reason",
@@ -252,7 +252,7 @@
         },
         {
           "text": "Activity",
-          "path": "Operation/activity/",
+          "path": "Operation/Activity/Operations Demand Request.md",
           "items": [
             {
               "text": "Operations Demand Request",
@@ -308,11 +308,11 @@
     },
     {
       "text": "Billing",
-      "path": "billing/billing.md",
+      "path": "billing/basic/SOP.md",
       "items": [
         {
           "text": "Basic",
-          "path": "billing/basic/",
+          "path": "billing/basic/SOP.md",
           "items": [
             {
               "text": "SOP",
@@ -322,7 +322,7 @@
         },
         {
           "text": "Activity",
-          "path": "billing/activity/",
+          "path": "billing/activity/client-timesheet.md",
           "items": [
             {
               "text": "Client TimeSheet",
@@ -354,11 +354,11 @@
     },
     {
       "text": "Accounts",
-      "path": "accounts/accounts.md",
+      "path": "accounts/basic/Cost Center.md",
       "items": [
         {
           "text": "Basic",
-          "path": "accounts/basic/",
+          "path": "accounts/basic/Cost Center.md",
           "items": [
             {
               "text": "Cost Center",
@@ -388,7 +388,7 @@
         },
         {
           "text": "Activity",
-          "path": "accounts/activity/",
+          "path": "accounts/activity/Cost Center.md",
           "items": [
             {
               "text": "Cost Center",
@@ -398,7 +398,7 @@
         },
         {
           "text": "Reports",
-          "path": "accounts/reports/",
+          "path": "accounts/reports/Trial Balance.md",
           "items": [
             {
               "text": "Trial Balance",
@@ -408,7 +408,7 @@
         },
         {
           "text": "Settings",
-          "path": "accounts/settings/",
+          "path": "accounts/settings/Account Settings.md",
           "items": [
             {
               "text": "Account Settings",
@@ -420,11 +420,11 @@
     },
     {
       "text": "Payroll",
-      "path": "Payroll/Payroll.md",
+      "path": "Payroll/Basic/Salary Components.md",
       "items": [
         {
           "text": "Basic",
-          "path": "Payroll/Basic/",
+          "path": "Payroll/Basic/Salary Components.md",
           "items": [
             {
               "text": "Salary Components",
@@ -438,7 +438,7 @@
         },
         {
           "text": "Activity",
-          "path": "Payroll/Activity/",
+          "path": "Payroll/Activity/Supplier Time Card.md",
           "items": [
             {
               "text": "Supplier Time Card",
