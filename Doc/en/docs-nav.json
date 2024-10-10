@@ -363,6 +363,10 @@
             {
               "text": "Cost Center",
               "path": "accounts/basic/Cost Center.md"
+            },
+            {
+              "text": "Chart of Accounts",
+              "path": "accounts/basic/Chart of Accounts.md"
             }
           ]
         },
