@@ -76,7 +76,7 @@ A Group is for organizing accounts but doesn’t directly hold any transactions.
         <li><strong>Step 2:</strong> Fill in the following fields:
         <ol>Name: Enter a name for your group, like "Project Expenses" or "Operational Costs."</ol>
         <ol>Parent: Select a parent account if this group falls under a larger category.</ol>
-        <ol>Note: The Level of the group is automatically set by the system based on where the group fits within the account structure.<ol>
+        <ol>Note: The Level of the group is automatically set by the system based on where the group fits within the account structure.</ol>
         <ol>Code: Give it a unique code for easy identification.</ol></li>
         <li><strong>Step 3:</strong>Click Save to create the group, or click Cancel if you change your mind.</li>
     </ul>
@@ -96,7 +96,7 @@ An Account Ledger is where transactions, like paying salaries or receiving clien
         <li><strong>Step 2:</strong> Fill in the following fields:
         <ol>Name: Enter a name for the account, like "Project A Salaries" or "Client Payments.""</ol>
         <ol>Parent: Choose a parent group if this account belongs under a larger category.</ol>
-        <ol>Note: The Level is automatically set by the system, so you don’t need to worry about setting it manually.<ol>
+        <ol>Note: The Level is automatically set by the system, so you don’t need to worry about setting it manually.</ol>
         <ol>Code: Assign a unique code to the account.</ol>
         <ol>Short Name: Add a short name for convenience, like "Sal" for "Salaries."</ol>
         <ol>Cost Category: Select a cost category if needed, such as "Labor Costs" or "Project Expenses."</ol>
