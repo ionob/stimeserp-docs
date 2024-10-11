@@ -384,11 +384,11 @@
     },
     {
       "text": "CRM",
-      "path": "CRM/dashboard.md",
+      "path": "CRM/crm dashboard.md",
       "items": [
         {
           "text": "Dashboard",
-          "path": "CRM/dashboard.md"
+          "path": "CRM/crm dashboard.md"
         }
       ]
     },
