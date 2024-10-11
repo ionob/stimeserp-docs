@@ -383,6 +383,16 @@
       ]
     },
     {
+      "text": "CRM",
+      "path": "CRM/dashboard.md",
+      "items": [
+        {
+          "text": "Dashboard",
+          "path": "CRM/dashboard.md"
+        }
+      ]
+    },
+    {
       "text": "Accounts",
       "path": "accounts/basic/Cost Center.md",
       "items": [
