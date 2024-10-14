@@ -433,6 +433,10 @@
             {
               "text": "Journal Entry",
               "path": "accounts/activity/Journal Entry.md"
+            },
+            {
+              "text": "Receipt",
+              "path": "accounts/activity/Receipt.md"
             }
           ]
         },
