@@ -437,6 +437,10 @@
             {
               "text": "Receipt",
               "path": "accounts/activity/Receipt.md"
+            },
+            {
+              "text": "Payments",
+              "path": "accounts/activity/Payments.md"
             }
           ]
         },
