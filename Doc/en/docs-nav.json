@@ -441,6 +441,10 @@
             {
               "text": "Payments",
               "path": "accounts/activity/Payments.md"
+            },
+            {
+              "text": "Petty Cash",
+              "path": "accounts/activity/Petty Cash.md"
             }
           ]
         },
