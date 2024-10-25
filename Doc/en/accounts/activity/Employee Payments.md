@@ -45,7 +45,7 @@ Each selection combination will have specific fields to fill out. Here’s a bre
             <li><strong>Doc No:</strong> Auto-generated</li>
             <li><strong>Date</strong></li>
             <li><strong>Cash Document:</strong> select a cash document, the account will auto-fill and be disabled</li>
-            <li><strong>Specific Fields:</strong>Labour Salary / Staff Salary</li>
+            <li><strong>Specific Fields:</strong> Labour Salary / Staff Salary</li>
                 <ol>Salary Month: Select the relevant month. The system will display Invoice Details.</ol>
                 <ol>Invoice Details:Month, Employee Name, Account, Cash/Credit, Amount, and Paying Amount.</ol>
             <li><strong>Document Upload</strong></li>
@@ -66,10 +66,10 @@ Each selection combination will have specific fields to fill out. Here’s a bre
             <li><strong>Date</strong></li>
             <li><strong>Cash Document:</strong> select a cash document, the account will auto-fill and be disabled</li>
             <li><strong>Request</strong></li>
-            <li><strong>Specific Fields:</strong>Loan Advance</li>
+            <li><strong>Specific Fields:</strong> Loan Advance</li>
                 <ol>Request: Choose a request. Invoice Details will show the linked invoice details.</ol>
                 <ol>Invoice Details:Month, Employee Name, Account, Cash/Credit, Amount, and Paying Amount.</ol>
-            <li><strong>Specific Fields:</strong>Final Settlement</li>
+            <li><strong>Specific Fields:</strong> Final Settlement</li>
                 <ol>Request: Choose the relevant request.</ol>
                 <ol>Invoice Details:Month, Employee Name, Account, Cash/Credit, Amount, and Paying Amount.</ol>
             <li><strong>Document Upload</strong></li>
@@ -93,7 +93,7 @@ Each selection combination will have specific fields to fill out. Here’s a bre
             <li><strong>Bank Document:</strong> select a bank document, the account will auto-fill and be disabled</li>
             <li><strong>Cheque No:</strong> Enter the cheque number</li>
             <li><strong>Cheque Date:</strong> Date of the cheque</li>
-            <li><strong>Specific Fields:</strong>Labour Salary / Staff Salary</li>
+            <li><strong>Specific Fields:</strong> Labour Salary / Staff Salary</li>
                     <ol>Salary Month: Select the month, and the Invoice Details will display</ol>
                     <ol>Month, Employee Name, Account, Cash/Credit, Amount, and Paying Amount.</ol>
             <li><strong>Document Upload</strong></li>
@@ -115,9 +115,9 @@ Each selection combination will have specific fields to fill out. Here’s a bre
             <li><strong>Bank Document:</strong> select a bank document, the account will auto-fill and be disabled</li>
             <li><strong>Cheque No:</strong> Enter the cheque number</li>
             <li><strong>Cheque Date:</strong> Date of the cheque</li>
-            <li><strong>Specific Fields:</strong>Loan Advance</li>
+            <li><strong>Specific Fields:</strong> Loan Advance</li>
                 <ol>Request: Select the request. Invoice Details will be shown for the selected request.</ol>
-            <li><strong>Specific Fields:</strong>Final Settlement</li>
+            <li><strong>Specific Fields:</strong> Final Settlement</li>
                 <ol>Request: Choose the applicable request.</ol>
             <li>><strong>Document Upload</strong></li>
             <li><strong>Narration</strong></li>
@@ -140,7 +140,7 @@ Each selection combination will have specific fields to fill out. Here’s a bre
             <li><strong>Bank Document:</strong> select a bank document, the account will auto-fill and be disabled</li>
             <li><strong>Cheque No:</strong> Enter the cheque number</li>
             <li><strong>Cheque Date:</strong> Date of the cheque</li>
-            <li><strong>Specific Fields:</strong>Labour Salary / Staff Salary</li>
+            <li><strong>Specific Fields:</strong> Labour Salary / Staff Salary</li>
                 <ol>Salary Month: Choose the month, and relevant Invoice Details will appear.</ol>
             <li><strong>Document Upload</strong></li>
             <li><strong>Narration</strong></li>
@@ -161,9 +161,9 @@ Each selection combination will have specific fields to fill out. Here’s a bre
             <li><strong>Bank Document:</strong> select a bank document, the account will auto-fill and be disabled</li>
             <li><strong>Cheque No:</strong> Enter the cheque number</li>
             <li><strong>Cheque Date:</strong> Date of the cheque</li>
-            <li><strong>Specific Fields:</strong>Loan Advance</li>
+            <li><strong>Specific Fields:</strong> Loan Advance</li>
                 <ol>Request: Select the request, and the system will display Invoice Details.</ol>
-            <li><strong>Specific Fields:</strong>Final Settlement</li>
+            <li><strong>Specific Fields:</strong> Final Settlement</li>
                 <ol>Request: Select the relevant request.</ol>
             <li><strong>Document Upload</strong></li>
             <li><strong>Narration</strong></li>
