@@ -445,6 +445,10 @@
             {
               "text": "Petty Cash",
               "path": "accounts/activity/Petty Cash.md"
+            },
+            {
+              "text": "Employee Payments",
+              "path": "accounts/activity/Employee Payments.md"
             }
           ]
         },
